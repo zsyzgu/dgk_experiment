@@ -60,10 +60,10 @@ for i in range(0, len(lines)):
 	if get_cmd(lines[i]) == 'delete':
 		if words[word_cnt].word != '':
 			words[word_cnt].word = words[word_cnt][0 : -1]
-		elif words[word_cnt].phrase_start == False:
+		elif words[word_cnt].phrase_index == -1:
 			word_cnt = word_cnt - 1
-			words[word_cnt] = ''
-			if words[word_cnt].phrase_start == True:
+			words[word_cnt].word = ''
+			if words[word_cnt].phrase_index != -1:
 				words[word_cnt].phrase_undo = True
 
 	if get_cmd(lines[i]) == 'enter':
