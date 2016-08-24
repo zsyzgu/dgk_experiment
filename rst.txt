@@ -1,3 +1,0 @@
-user, scene, technique, session, index, phrase, rate, error, undo
-gyz, gamepad, dynamic, 1, 1, well connected with people, 10.9850746269, 0.0, No
-gyz, scanning, dynamic, 1, 1, presidents drive extensive cars, 4.82675400793, 0.0322580645161, No

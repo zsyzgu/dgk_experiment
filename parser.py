@@ -25,11 +25,12 @@ rst = file(file_name + '.rst', 'w')
 rst.write('user, scene, technique, session, index, phrase, rate, error, undo\n')
 
 wa = file(file_name + '.wa', 'w')
-wa.write('user, scene, technique, session, \n')
+wa.write('user, scene, technique, session, word, len, rank, gesture_time, select_time\n')
 
 class Word:
 	word = ''
 	phrase = ''
+	rank = -1
 	session_index = -1
 	phrase_index = -1
 	phrase_undo = False
@@ -75,6 +76,7 @@ for i in range(0, len(lines)):
 	if get_cmd(lines[i]) == 'select':
 		words[word_cnt].select_time = get_time(lines[i])
 		words[word_cnt].word = get_result(lines[i]).split(' ')[0]
+		words[word_cnt].rank = (int)(get_result(lines[i]).split(' ')[1])
 		word_cnt = word_cnt + 1
 
 start_word = -1
@@ -92,6 +94,10 @@ for i in range(0, word_cnt):
 	if words[i].phrase_index != -1:
 		start_word = i
 	
+	gesture_time = words[i].enter_time - words[i].start_time
+	select_time = words[i].select_time - words[i].enter_time
+	wa.write(user_name + ', ' + scene + ', ' + technique + ', ' + str(words[start_word].session_index) + ', ' + word + ', ' + str(len(word)) + ', ' + str(words[i].rank) + ', ' + str(gesture_time) + ', ' + str(select_time) + '\n')
+
 	if i == word_cnt - 1 or words[i + 1].phrase_index != -1:
 		std_phrase = words[start_word].phrase
 		total_time = words[i].select_time - words[start_word].start_time

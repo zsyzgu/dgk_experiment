@@ -26,12 +26,12 @@ files = os.listdir('.')
 for file_name in files:
 	tags = file_name.split('.')
 	if len(tags) > 0 and tags[len(tags) - 1] == 'txt':
-		print file_name
 		flag = True
 		for file_class in spec_files:
 			if len(file_class) < len(file_name) and file_name[0 : len(file_class)] == file_class:
 				flag = False
 		if flag:
+			print file_name
 			os.system('python parser.py ' + '.'.join(tags[0 : len(tags) - 1]))
 
 for file_class in spec_files:
