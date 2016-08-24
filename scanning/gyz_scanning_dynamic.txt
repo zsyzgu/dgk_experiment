@@ -1,0 +1,45 @@
+0.0 session 1
+0.0 phrase presidents drive expensive cars
+0.0 start
+2.322 click 2
+5.737 click 3
+7.108 click 1
+9.525 click 2
+10.942 click 1
+12.333 click 1
+13.654 click 1
+16.057 click 2
+19.48 click 3
+21.863 click 2
+22.083 enter
+22.393 select presidents 1
+22.393 start
+23.795 click 1
+27.188 click 3
+28.541 click 1
+33.965 click 5
+35.326 click 1
+35.536 enter
+35.948 select drive 1
+35.95 start
+37.328 click 1
+43.764 click 6
+46.126 click 2
+47.588 click 1
+48.98 click 1
+51.342 click 2
+53.705 click 2
+56.088 click 2
+57.429 click 1
+57.849 enter
+58.279 select extensive 1
+58.279 start
+59.631 click 1
+60.982 click 1
+64.636 click 3
+69.031 click 4
+69.242 enter
+69.612 select cars 1
+69.622 start
+70.403 phrase do you prefer a window seat
+70.403 start

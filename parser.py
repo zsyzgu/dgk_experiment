@@ -24,6 +24,9 @@ inp.close()
 rst = file(file_name + '.rst', 'w')
 rst.write('user, scene, technique, session, index, phrase, rate, error, undo\n')
 
+wa = file(file_name + '.wa', 'w')
+wa.write('user, scene, technique, session, \n')
+
 class Word:
 	word = ''
 	phrase = ''
@@ -59,7 +62,7 @@ for i in range(0, len(lines)):
 	
 	if get_cmd(lines[i]) == 'delete':
 		if words[word_cnt].word != '':
-			words[word_cnt].word = words[word_cnt][0 : -1]
+			words[word_cnt].word = words[word_cnt].word[0 : -1]
 		elif words[word_cnt].phrase_index == -1:
 			word_cnt = word_cnt - 1
 			words[word_cnt].word = ''
@@ -95,7 +98,7 @@ for i in range(0, word_cnt):
 		rate = letter_cnt / total_time * 12
 		err = msd.msd(phrase, std_phrase)
 		is_undo = ('Yes' if words[start_word].phrase_undo == True else 'No')
-		rst.write(user_name + ', ' + scene + ', ' + technique + ', ' + str(words[start_word].session_index) + ', ' + phrase + ', ' + str(rate) + ', ' + str(err) + ', ' + is_undo + '\n')
+		rst.write(user_name + ', ' + scene + ', ' + technique + ', ' + str(words[start_word].session_index) + ', ' + str(words[start_word].phrase_index) + ', ' + phrase + ', ' + str(rate) + ', ' + str(err) + ', ' + is_undo + '\n')
 		letter_cnt = 0
 		phrase = ''
 
