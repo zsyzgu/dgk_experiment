@@ -1,0 +1,441 @@
+0.001 session 1
+3.216 phrase this equation is too complicated
+3.219 start
+8.492 click 5
+11.25 delete
+15.648 click 4
+18.009 click 2
+20.319 click 2
+24.65 click 4
+25.136 enter
+25.566 select this 1
+25.568 start
+26.91 click 1
+31.194 click 4
+36.485 click 5
+37.85 click 1
+42.196 click 4
+44.53 click 2
+47.846 click 3
+51.158 click 3
+51.607 enter
+51.923 select equation 1
+51.926 start
+54.032 click 2
+58.388 click 4
+58.75 enter
+59.071 select is 1
+59.073 start
+63.44 click 4
+66.597 click 3
+69.061 click 2
+75.415 delete
+78.753 click 3
+79.227 enter
+79.577 select too 1
+79.579 start
+80.96 click 1
+84.305 click 3
+87.657 click 3
+91.98 click 4
+95.235 click 3
+97.549 click 2
+98.852 click 1
+100.201 click 1
+104.57 click 4
+105.941 click 1
+107.238 click 1
+107.552 enter
+107.827 select complicated 1
+107.829 start
+108.569 phrase in sharp contrast to your words
+109.175 start
+111.504 click 2
+114.816 click 3
+115.292 enter
+115.854 select in 1
+115.856 start
+120.032 click 4
+122.403 click 2
+123.755 click 1
+128.074 click 4
+132.079 click 3
+138.424 delete
+142.789 click 4
+143.261 enter
+143.687 select sharp 1
+143.69 start
+145.161 click 1
+148.678 click 3
+152.002 click 3
+156.457 click 4
+160.781 click 4
+162.203 click 1
+166.55 click 4
+170.885 click 4
+171.35 enter
+171.671 select contrast 1
+171.673 start
+176.106 click 4
+179.491 click 3
+180.079 enter
+180.753 select to 1
+180.756 start
+186.075 click 5
+189.414 click 3
+194.734 click 5
+199.022 click 4
+199.404 enter
+199.757 select your 1
+199.759 start
+205.085 click 5
+208.393 click 3
+212.772 click 4
+214.194 click 1
+218.503 click 4
+219.194 enter
+219.667 select words 1
+219.67 start
+220.895 phrase for your information only
+221.685 start
+224.048 click 2
+227.456 click 3
+231.707 click 4
+232.267 enter
+232.699 select for 1
+232.702 start
+238.015 click 5
+241.314 click 3
+246.614 click 5
+250.967 click 4
+251.791 enter
+252.142 select your 1
+252.145 start
+254.52 click 2
+257.968 click 3
+259.657 click 1
+266.009 delete
+268.429 click 2
+271.8 click 3
+276.117 click 4
+279.458 click 3
+280.836 click 1
+285.224 click 4
+287.538 click 2
+290.889 click 3
+294.265 click 3
+295.083 enter
+295.485 select information 1
+295.488 start
+298.734 click 3
+302.076 click 3
+305.439 click 3
+310.881 click 5
+311.367 enter
+311.708 select only 1
+311.71 start
+312.222 phrase that is a very odd question
+312.92 start
+317.283 click 4
+319.878 click 2
+321.406 click 1
+325.767 click 4
+326.511 enter
+327.001 select that 1
+327.003 start
+329.369 click 2
+333.695 click 4
+334.096 enter
+334.441 select is 1
+334.444 start
+335.777 click 1
+336.097 enter
+336.406 select a 1
+336.409 start
+341.715 click 5
+343.168 click 1
+354.544 click 4
+359.87 click 5
+360.325 enter
+360.666 select very 1
+360.669 start
+364.056 click 3
+365.375 click 1
+366.706 click 1
+367.089 enter
+369.406 select odd 3
+369.408 start
+380.808 click 4
+386.107 click 5
+387.456 click 1
+391.848 click 4
+396.183 click 4
+398.472 click 2
+401.839 click 3
+405.041 click 3
+405.42 enter
+405.75 select question 1
+405.753 start
+412.855 phrase staying up all night is a bad idea
+413.514 start
+417.955 click 4
+422.415 click 4
+423.829 click 1
+429.362 click 5
+431.669 click 2
+435.068 click 3
+437.465 click 2
+438.313 enter
+438.609 select staying 1
+438.612 start
+443.895 click 5
+448.101 click 4
+448.532 enter
+448.935 select up 1
+448.938 start
+450.293 click 1
+453.638 click 3
+456.864 click 3
+457.364 enter
+457.809 select all 1
+457.812 start
+461.437 click 3
+463.777 click 2
+480.187 click 2
+482.522 click 2
+486.964 click 4
+487.755 enter
+489.365 select night 2
+489.368 start
+491.809 click 2
+496.191 click 4
+496.679 enter
+497.134 select is 1
+497.137 start
+498.483 click 1
+499.627 click 1
+505.972 delete
+506.919 enter
+507.373 select a 1
+507.376 start
+508.756 click 1
+510.074 click 1
+511.452 click 1
+511.835 enter
+512.176 select bad 1
+512.179 start
+514.539 click 2
+522.984 click 1
+538.807 click 1
+540.257 click 1
+540.691 enter
+542.017 select idea 2
+542.02 start
+544.679 phrase he is still on our team
+545.312 start
+547.695 click 2
+549.038 click 1
+549.488 enter
+549.935 select he 1
+549.938 start
+552.136 click 2
+556.517 click 4
+556.892 enter
+557.234 select is 1
+557.237 start
+561.494 click 4
+565.984 click 4
+568.293 click 2
+571.737 click 3
+575.068 click 3
+575.502 enter
+575.789 select still 1
+575.792 start
+579.147 click 3
+582.41 click 3
+582.761 enter
+583.05 select on 1
+583.053 start
+586.392 click 3
+591.781 click 5
+596.087 click 4
+596.457 enter
+597.788 select our 2
+597.79 start
+602.113 click 4
+603.478 click 1
+604.802 click 1
+608.127 click 3
+608.631 enter
+610.928 select team 3
+610.931 start
+611.382 phrase a picture is worth many words
+611.945 start
+613.011 click 1
+614.375 click 1
+620.736 delete
+621.374 enter
+621.731 select a 1
+621.734 start
+626.056 click 4
+628.506 click 2
+629.859 click 1
+634.285 click 4
+639.584 click 5
+643.96 click 4
+645.531 click 1
+645.939 enter
+646.321 select picture 1
+646.324 start
+648.716 click 2
+653.045 click 4
+653.556 enter
+653.964 select is 1
+653.967 start
+659.312 click 5
+662.762 click 3
+667.182 click 4
+671.547 click 4
+673.845 click 2
+674.189 enter
+674.478 select worth 1
+674.481 start
+677.763 click 3
+679.116 click 1
+682.429 click 3
+687.845 click 5
+688.383 enter
+688.683 select many 1
+688.686 start
+693.875 click 5
+697.246 click 3
+701.566 click 4
+703.274 click 1
+707.652 click 4
+708.187 enter
+708.663 select words 1
+708.666 start
+713.102 phrase fall is my favorite season
+713.711 start
+716.086 click 2
+717.439 click 1
+720.755 click 3
+724.106 click 3
+724.486 enter
+725.003 select fall 1
+725.006 start
+727.351 click 2
+731.723 click 4
+732.516 enter
+732.924 select is 1
+732.927 start
+736.328 click 3
+741.852 click 5
+742.473 enter
+742.93 select my 1
+742.934 start
+745.311 click 2
+746.768 click 1
+752.158 click 5
+755.545 click 3
+759.917 click 4
+762.261 click 2
+766.692 click 4
+768.102 click 1
+768.549 enter
+768.879 select favorite 1
+768.882 start
+773.252 click 4
+774.662 click 1
+776.024 click 1
+780.348 click 4
+783.517 click 3
+786.675 click 3
+787.093 enter
+787.461 select season 1
+787.464 start
+797.489 phrase rapidly running short on words
+800.311 start
+813.797 delete
+819.596 delete
+819.604 delete
+824.004 click 4
+825.384 click 1
+829.77 click 4
+832.134 click 2
+833.518 click 1
+836.839 click 3
+842.237 click 5
+842.779 enter
+843.151 select rapidly 1
+843.153 start
+847.504 click 4
+852.844 click 5
+856.156 click 3
+859.471 click 3
+861.808 click 2
+865.149 click 3
+867.454 click 2
+867.898 enter
+868.206 select running 1
+868.209 start
+872.567 click 4
+874.924 click 2
+878.357 click 3
+882.725 click 4
+887.062 click 4
+887.425 enter
+887.747 select short 1
+887.75 start
+891.148 click 3
+894.485 click 3
+894.877 enter
+895.173 select on 1
+895.176 start
+900.611 click 5
+904.046 click 3
+908.394 click 4
+909.778 click 1
+914.157 click 4
+914.595 enter
+914.995 select words 1
+914.998 start
+2.646 phrase tickets are very expensive
+2.649 start
+14.048 click 4
+16.367 click 2
+17.821 click 1
+21.094 click 3
+22.582 click 1
+26.896 click 4
+31.305 click 4
+31.885 enter
+32.271 select tickets 1
+32.273 start
+33.639 click 1
+38.003 click 4
+39.829 click 1
+40.483 enter
+40.922 select are 1
+40.924 start
+46.313 click 5
+47.756 click 1
+52.148 click 4
+57.499 click 5
+58.009 enter
+58.659 select very 1
+58.662 start
+60.096 click 1
+65.417 click 5
+69.779 click 4
+71.186 click 1
+74.571 click 3
+79.123 click 4
+81.778 click 2
+87.119 click 5
+88.478 click 1
+88.804 enter
+89.202 select expensive 1
+89.204 start
+90.026 phrase important for political parties
+90.728 start

@@ -1,0 +1,499 @@
+0.0 session 1
+20.47 phrase an occasional taste of chocolate
+20.47 start
+21.799 click 1
+24.19 click 2
+24.409 enter
+24.737 select in 1
+24.737 start
+26.003 delete
+26.003 start
+27.128 click 1
+29.55 click 2
+30.269 enter
+32.566 select an 3
+32.566 start
+33.957 click 1
+35.269 click 1
+36.707 click 1
+38.066 click 1
+41.442 click 3
+42.567 click 1
+43.911 click 1
+46.255 click 2
+47.677 click 1
+48.989 click 1
+49.318 enter
+49.458 select occasional 1
+49.474 start
+52.834 click 3
+54.178 click 1
+58.537 click 4
+60.913 click 2
+62.272 click 1
+62.757 enter
+62.897 select taste 1
+62.912 start
+64.257 click 1
+65.554 click 1
+66.007 enter
+66.148 select of 1
+66.148 start
+67.413 click 1
+68.57 click 1
+70.929 click 2
+72.289 click 1
+73.555 click 1
+75.852 click 2
+77.149 click 1
+79.493 click 2
+80.868 click 1
+81.165 enter
+81.305 select chocolate 1
+81.321 start
+82.258 phrase yes you are very smart
+83.024 start
+87.712 click 5
+88.869 click 1
+90.806 click 1
+91.26 enter
+91.416 select yes 1
+91.416 start
+96.791 click 5
+99.151 click 2
+101.511 click 2
+101.886 enter
+102.058 select you 1
+102.058 start
+103.167 click 1
+107.558 click 4
+108.917 click 1
+109.402 enter
+109.637 select are 1
+109.637 start
+113.981 click 4
+115.168 click 1
+116.778 click 1
+125.201 click 8
+125.638 enter
+125.795 select very 1
+125.795 start
+127.998 click 2
+129.482 click 1
+130.889 click 1
+135.296 click 4
+139.515 click 4
+140.406 enter
+141.749 select smart 2
+141.749 start
+142.437 phrase an airport is a very busy place
+143.124 start
+144.187 click 1
+146.609 click 2
+147.297 enter
+149.516 select an 3
+149.516 start
+150.875 click 1
+152.282 click 1
+155.688 click 3
+157.907 click 2
+159.376 click 1
+161.705 click 2
+163.033 click 1
+163.345 enter
+163.502 select airport 1
+163.517 start
+164.798 click 1
+169.19 click 4
+169.737 enter
+170.112 select is 1
+170.112 start
+171.627 click 1
+172.143 enter
+172.346 select a 1
+172.362 start
+176.753 click 4
+178.597 click 1
+180.066 click 1
+188.457 click 8
+188.911 enter
+189.067 select very 1
+189.082 start
+190.426 click 1
+196.833 click 6
+199.146 click 2
+202.443 click 3
+202.725 enter
+202.896 select busy 1
+202.896 start
+205.272 click 2
+206.647 click 1
+208.053 click 1
+209.46 click 1
+210.851 click 1
+211.554 enter
+212.866 select place 2
+212.882 start
+213.695 phrase want to join us for lunch
+214.382 start
+218.226 click 4
+219.586 click 1
+220.945 click 1
+226.352 click 5
+226.665 enter
+227.993 select want 2
+228.008 start
+229.384 click 1
+231.696 delete
+231.759 delete
+231.759 start
+235.744 click 4
+237.103 click 1
+238.463 click 1
+243.838 click 5
+244.416 enter
+245.698 select want 2
+245.713 start
+249.105 click 3
+251.511 click 2
+251.964 enter
+252.355 select to 1
+252.386 start
+254.496 click 2
+257.027 click 2
+257.324 enter
+257.512 select pp 1
+257.512 start
+264.918 delete
+264.918 start
+266.013 click 1
+268.356 click 2
+269.888 click 1
+271.294 click 1
+273.404 click 2
+274.357 delete
+274.435 delete
+274.529 delete
+274.607 delete
+274.685 delete
+274.748 delete
+274.748 start
+274.763 delete
+274.763 start
+278.78 click 4
+280.17 click 1
+281.436 click 1
+286.812 click 5
+287.234 enter
+288.546 select want 2
+288.562 start
+291.953 click 3
+294.313 click 2
+294.625 enter
+294.781 select to 1
+294.781 start
+296.094 click 1
+298.485 click 2
+299.907 click 1
+302.313 click 2
+302.923 enter
+307.205 nextPage
+311.502 select join 7
+311.502 start
+315.846 click 4
+319.205 click 3
+319.534 enter
+319.925 select us 1
+319.94 start
+321.378 click 1
+323.831 click 2
+327.222 click 3
+327.675 enter
+327.894 select for 1
+327.91 start
+329.332 click 1
+335.739 click 6
+337.364 click 1
+338.645 click 1
+340.083 click 1
+340.801 enter
+344.193 select lunch 4
+344.208 start
+344.912 phrase time to go shopping
+345.239 start
+347.584 click 3
+348.975 click 1
+351.475 click 2
+352.881 click 1
+353.116 enter
+353.459 select time 1
+353.475 start
+356.882 click 3
+359.272 click 2
+359.538 enter
+359.757 select to 1
+359.757 start
+361.163 click 1
+363.585 click 2
+364.039 enter
+368.336 nextPage
+371.618 select go 6
+371.633 start
+374.024 click 2
+375.415 click 1
+376.837 click 1
+381.212 click 4
+384.619 click 3
+387.01 click 2
+388.479 click 1
+389.87 click 1
+390.182 enter
+390.323 select shopping 1
+390.323 start
+391.432 phrase stability of the nation
+391.682 start
+393.761 click 2
+397.152 click 3
+398.542 click 1
+400.011 click 1
+402.418 click 2
+403.809 click 1
+406.184 click 2
+407.496 click 1
+409.981 click 2
+410.497 enter
+410.653 select stability 1
+410.653 start
+412.059 click 1
+413.169 click 1
+413.763 enter
+413.888 select of 1
+413.888 start
+417.341 click 3
+418.67 click 1
+420.029 click 1
+420.232 enter
+420.388 select the 1
+420.404 start
+421.795 click 1
+423.185 click 1
+428.608 click 5
+429.999 click 1
+432.374 click 2
+435.828 click 3
+436.155 enter
+437.484 select nation 2
+437.499 start
+438.062 phrase interactions between men and women
+438.374 start
+441.734 delete
+441.734 start
+442.875 click 1
+445.313 click 2
+449.657 click 4
+450.954 click 1
+453.595 click 2
+454.97 click 1
+456.361 click 1
+458.689 click 2
+460.143 click 1
+461.58 click 1
+463.033 click 1
+465.425 click 2
+465.862 enter
+466.018 select interactions 1
+466.018 start
+467.393 click 1
+468.816 click 1
+474.222 click 5
+478.582 click 4
+479.942 click 1
+481.223 click 1
+482.52 click 1
+482.801 enter
+482.926 select between 1
+482.942 start
+492.349 click 1
+493.74 click 1
+496.193 click 2
+497.678 click 1
+499.1 click 1
+500.491 click 1
+502.334 delete
+502.444 delete
+502.553 delete
+502.663 delete
+502.803 delete
+502.913 delete
+503.038 delete
+503.038 start
+503.038 delete
+503.053 start
+507.351 delete
+507.366 start
+509.773 click 1
+511.211 delete
+512.305 click 1
+514.774 click 2
+519.212 click 4
+520.634 click 1
+523.071 click 2
+524.446 click 1
+525.853 click 1
+528.244 click 2
+529.65 click 1
+531.041 click 1
+532.384 click 1
+534.791 click 2
+535.088 enter
+535.323 select interactions 1
+535.323 start
+536.713 click 1
+538.12 click 1
+543.527 click 5
+547.918 click 4
+549.308 click 1
+550.715 click 1
+552.059 click 1
+552.434 enter
+552.574 select between 1
+552.59 start
+554.372 click 1
+555.778 click 1
+558.216 click 2
+558.419 enter
+562.669 nextPage
+564.966 select men 5
+564.966 start
+566.357 click 1
+579.734 click 2
+580.921 click 1
+581.093 enter
+581.531 select and 1
+581.531 start
+585.875 click 4
+587.25 click 1
+588.641 click 1
+590.11 click 1
+592.501 click 2
+592.907 enter
+593.188 select women 1
+593.188 start
+594.313 phrase the second largest country
+1861.837 start
+1866.665 delete
+1866.665 start
+1869.619 click 3
+1870.884 click 1
+1872.166 click 1
+1872.338 enter
+1872.478 select the 1
+1872.494 start
+1874.885 click 2
+1876.244 click 1
+1877.604 click 1
+1880.901 click 3
+1882.261 click 1
+1883.605 click 1
+1883.964 enter
+1884.214 select second 1
+1884.214 start
+1885.573 click 1
+1886.886 click 1
+1890.324 click 3
+1891.699 click 1
+1893.012 click 1
+1896.372 click 3
+1899.716 click 3
+1900.028 enter
+1900.215 select largest 1
+1900.231 start
+1901.559 click 1
+1903.919 click 2
+1908.263 click 4
+1909.638 click 1
+1913.936 click 4
+1915.311 click 1
+1917.671 click 2
+1917.983 enter
+1918.202 select country 1
+1918.217 start
+1919.03 phrase the food at this restaurant
+1919.499 start
+1922.562 click 3
+1923.812 click 1
+1925.187 click 1
+1925.343 enter
+1925.468 select the 1
+1925.468 start
+1926.812 click 1
+1929.141 click 2
+1930.531 click 1
+1931.75 click 1
+1932.016 enter
+1936.172 nextPage
+1939.47 select food 6
+1939.47 start
+1940.798 click 1
+1946.158 click 5
+1946.471 enter
+1947.752 select at 2
+1947.767 start
+1951.112 click 3
+1952.393 click 1
+1953.643 click 1
+1956.003 click 2
+1956.3 enter
+1956.612 select this 1
+1956.612 start
+1958.972 click 2
+1960.222 click 1
+1963.597 click 3
+1965.863 click 2
+1967.238 click 1
+1969.598 click 2
+1972.051 click 2
+1973.395 click 1
+1974.724 click 1
+1975.989 click 1
+1976.286 enter
+1976.458 select restaurant 1
+1976.458 start
+1977.411 phrase the kids are very excited
+1977.833 start
+1980.834 click 3
+1982.131 click 1
+1983.381 click 1
+1983.6 enter
+1983.771 select the 1
+1983.787 start
+1985.24 click 1
+1986.569 click 1
+1987.959 click 1
+1994.241 click 6
+1994.851 enter
+1995.163 select kids 1
+1995.163 start
+1996.492 click 1
+2000.789 click 4
+2002.117 click 1
+2002.461 enter
+2002.68 select are 1
+2002.711 start
+2007.102 click 4
+2008.461 click 1
+2009.806 click 1
+2018.119 click 8
+2018.525 enter
+2018.728 select very 1
+2018.728 start
+2020.056 click 1
+2028.338 click 8
+2029.604 click 1
+2030.854 click 1
+2033.199 click 2
+2034.464 click 1
+2035.668 click 1
+2035.87 enter
+2037.152 select excited 2
+2037.167 start
