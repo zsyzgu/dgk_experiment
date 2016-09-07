@@ -1,2 +1,17 @@
 user, scene, technique, session, index, phrase, rate, error, undo
-user1473236985713, gamepad, dynamic, 1, 1, that is a very odd question, 11.1185983827, 0.0, No
+gyz-ball, gamepad, 5keys, 1, 1, learn to walk before you run, 6.13551484972, 0.0, No
+gyz-ball, gamepad, 5keys, 1, 2, rapidly running story on words, 5.14240506329, 0.0666666666667, No
+gyz-ball, gamepad, dynamic, 1, 1, learn at walk before you run, 6.73039406945, 0.0714285714286, No
+gyz-ball, gamepad, dynamic, 1, 2, rapidly running short on words, 9.17863026594, 0.0, No
+gyz-jaw, gamepad, 5keys, 1, 1, learn to walk before you run, 7.52289576973, 0.0, No
+gyz-jaw, gamepad, 5keys, 1, 2, rapidly running short on words, 7.86766189227, 0.0, No
+gyz-jaw, gamepad, dynamic, 1, 1, learn to walk before you run, 6.17836676218, 0.0, No
+gyz-jaw, gamepad, dynamic, 1, 2, rapidly running short on words, 7.55228505035, 0.0, No
+sk-jaw, gamepad, 5keys, 1, 1, learn to walk before you run, 5.19431636398, 0.0, No
+sk-jaw, gamepad, 5keys, 1, 2, rapidly running short on words, 5.80789277736, 0.0, No
+sk-jaw, gamepad, dynamic, 1, 1, learn to walk before you run, 3.73260484427, 0.0, No
+sk-jaw, gamepad, dynamic, 1, 2, rapidly running short on world, 5.91985428051, 0.0666666666667, No
+zmy-jaw, gamepad, 5keys, 1, 1, learn to walk before you run, 2.97311271975, 0.0, No
+zmy-jaw, gamepad, 5keys, 1, 2, rapidly running short on words, 4.18949403803, 0.0, No
+zmy-jaw, gamepad, dynamic, 1, 1, learn to walk before you run, 3.38334804354, 0.0, No
+zmy-jaw, gamepad, dynamic, 1, 2, rapidly running short on words, 4.52167359893, 0.0, No
