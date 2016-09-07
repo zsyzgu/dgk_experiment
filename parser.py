@@ -25,7 +25,7 @@ rst = file(file_name + '.rst', 'w')
 rst.write('user, scene, technique, session, index, phrase, rate, error, undo\n')
 
 wa = file(file_name + '.wa', 'w')
-wa.write('user, scene, technique, session, word, len, rank, gesture_time, select_time\n')
+wa.write('user, scene, technique, session, word, len, rank, dwell_time, gesture_time, select_time\n')
 
 class Word:
 	word = ''
@@ -94,9 +94,13 @@ for i in range(0, word_cnt):
 	if words[i].phrase_index != -1:
 		start_word = i
 	
+	if words[i].phrase_index == -1:
+		dwell_time = words[i].start_time - words[i - 1].select_time
+	else:
+		dwell_time = 0
 	gesture_time = words[i].enter_time - words[i].start_time
 	select_time = words[i].select_time - words[i].enter_time
-	wa.write(user_name + ', ' + scene + ', ' + technique + ', ' + str(words[start_word].session_index) + ', ' + word + ', ' + str(len(word)) + ', ' + str(words[i].rank) + ', ' + str(gesture_time) + ', ' + str(select_time) + '\n')
+	wa.write(user_name + ', ' + scene + ', ' + technique + ', ' + str(words[start_word].session_index) + ', ' + word + ', ' + str(len(word)) + ', ' + str(words[i].rank) + ', ' + str(dwell_time) + ', ' + str(gesture_time) + ', ' + str(select_time) + '\n')
 
 	if i == word_cnt - 1 or words[i + 1].phrase_index != -1:
 		std_phrase = words[start_word].phrase
