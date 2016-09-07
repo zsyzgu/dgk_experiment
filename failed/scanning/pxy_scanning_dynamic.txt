@@ -1,0 +1,481 @@
+0.001 session 1
+33.118 phrase sad to hear that news
+33.121 start
+35.488 click 2
+36.89 click 1
+38.259 click 1
+50.676 enter
+51.362 select she 1
+51.364 start
+57.796 delete
+57.798 start
+59.126 delete
+59.129 start
+61.706 click 2
+63.094 click 1
+64.497 click 1
+65.386 enter
+70.06 nextPage
+76.355 nextPage
+80.713 select sad 11
+80.716 start
+84.039 click 3
+86.432 click 2
+87.187 enter
+87.698 select to 1
+87.7 start
+89.501 click 1
+91.044 click 1
+92.547 click 1
+97.899 click 5
+98.384 enter
+99.72 select hear 2
+99.722 start
+103.043 click 3
+108.442 click 1
+109.826 click 1
+113.242 click 3
+114.529 click 1
+116.909 delete
+120.371 enter
+120.912 select that 1
+120.915 start
+122.754 click 1
+124.244 click 1
+131.689 click 7
+134.071 click 2
+138.459 enter
+138.914 select news 1
+138.917 start
+141.381 phrase this is a non profit organization
+146.574 start
+149.907 click 3
+151.304 click 1
+161.714 click 1
+164.345 click 2
+170.76 enter
+171.155 select this 1
+171.158 start
+180.634 click 1
+185.025 click 4
+186.402 click 1
+192.831 delete
+199.22 enter
+199.557 select is 1
+199.56 start
+201.126 click 1
+202.154 enter
+202.601 select a 1
+202.603 start
+212.013 click 1
+213.43 click 1
+224.859 delete
+227.287 click 2
+229.732 click 2
+238.137 enter
+242.435 nextPage
+244.847 select non 5
+244.85 start
+255.253 click 2
+257.609 click 2
+259.448 click 1
+261.323 click 1
+263.696 click 2
+267.107 click 3
+267.574 enter
+268.918 select profit 2
+268.921 start
+270.705 click 1
+275.117 click 4
+276.523 click 1
+277.907 click 1
+282.263 click 4
+284.334 click 2
+286.904 click 2
+288.342 click 1
+292.733 click 1
+297.093 click 1
+298.684 click 1
+300.111 click 1
+304.534 enter
+304.988 select organization 1
+304.991 start
+306.239 phrase tell a lie and your nose will grow
+307.048 start
+310.38 click 3
+311.874 click 1
+314.218 click 2
+315.625 click 1
+316.021 enter
+318.364 select tell 3
+318.367 start
+319.817 click 1
+320.278 enter
+320.757 select a 1
+320.76 start
+322.223 click 1
+323.671 click 1
+325.104 click 1
+325.49 enter
+329.883 nextPage
+336.015 nextPage
+342.461 nextPage
+348.776 nextPage
+351.14 select lie 17
+351.143 start
+352.51 click 1
+354.924 click 2
+356.311 click 1
+356.656 enter
+357.134 select and 1
+357.137 start
+362.589 click 5
+364.961 click 2
+367.366 click 2
+372.755 click 1
+373.319 enter
+373.731 select your 1
+373.734 start
+375.928 click 2
+381.376 delete
+382.845 click 1
+385.263 click 2
+388.661 click 3
+390.064 click 1
+390.802 enter
+395.111 nextPage
+401.235 nextPage
+404.645 select nose 10
+404.648 start
+409.014 click 4
+416.415 click 1
+417.897 click 1
+421.403 click 3
+427.841 enter
+429.156 select will 2
+429.16 start
+430.543 click 1
+434.82 click 4
+436.276 click 1
+440.676 click 4
+441.563 enter
+442.859 select grow 2
+442.861 start
+443.94 phrase fall is my favorite season
+444.636 start
+445.971 click 1
+447.35 click 1
+449.814 click 2
+454.269 click 4
+454.669 enter
+457.975 select fall 4
+457.978 start
+459.501 click 1
+463.935 click 4
+464.419 enter
+464.969 select is 1
+464.972 start
+466.356 click 1
+475.801 click 9
+476.276 enter
+477.626 select my 2
+477.629 start
+478.985 click 1
+480.378 click 1
+486.758 click 6
+491.13 click 4
+496.563 click 1
+499.148 click 2
+500.768 click 1
+502.09 click 1
+502.682 enter
+503.11 select favorite 1
+503.112 start
+505.629 click 2
+507.229 click 1
+508.655 click 1
+514.057 click 5
+516.445 click 2
+518.883 click 2
+519.86 enter
+520.31 select season 1
+520.313 start
+522.024 phrase question that must be answered
+522.734 start
+525.075 click 2
+528.444 click 3
+529.937 click 1
+532.346 click 2
+533.967 click 1
+538.367 delete
+540.802 click 2
+542.382 click 1
+543.933 click 1
+546.447 click 2
+547.615 click 1
+550.056 delete
+550.81 enter
+551.305 select question 1
+551.308 start
+554.729 click 3
+556.118 click 1
+557.488 click 1
+560.873 click 3
+561.24 enter
+561.561 select that 1
+561.564 start
+563.043 click 1
+569.432 click 6
+571.837 click 2
+574.266 click 2
+574.61 enter
+575.94 select must 2
+575.943 start
+577.326 click 1
+578.762 click 1
+579.984 click 1
+591.344 delete
+603.796 enter
+605.156 select be 2
+605.159 start
+606.63 click 1
+609.081 click 2
+612.514 click 3
+618.964 click 6
+621.545 click 2
+626.016 click 1
+627.563 click 1
+628.943 click 1
+629.496 enter
+629.893 select answered 1
+629.896 start
+631.642 phrase insurance is important for bad drivers
+632.327 start
+633.784 click 1
+638.227 click 4
+643.754 delete
+646.327 click 2
+649.49 click 3
+654.761 click 5
+656.54 click 1
+661.947 click 1
+663.569 click 1
+664.901 click 1
+666.245 click 1
+666.819 enter
+667.176 select insurance 1
+667.18 start
+668.95 click 1
+673.338 click 4
+680.791 click 1
+687.214 delete
+687.826 enter
+688.22 select is 1
+688.223 start
+689.646 click 1
+692.076 click 2
+695.495 click 3
+697.9 click 2
+700.789 click 2
+707.192 click 2
+708.698 click 1
+709.988 click 1
+712.576 click 2
+713.228 enter
+713.579 select important 1
+713.582 start
+714.997 click 1
+717.405 click 2
+720.811 click 3
+721.29 enter
+721.621 select for 1
+721.624 start
+723.01 click 1
+724.402 click 1
+725.794 click 1
+726.119 enter
+730.433 nextPage
+732.851 select bad 5
+732.854 start
+734.288 click 1
+738.724 click 4
+740.249 click 1
+744.626 click 4
+746.064 click 1
+748.611 click 2
+750.273 click 1
+750.827 enter
+751.132 select drivers 1
+751.135 start
+751.928 phrase we missed your birthday
+752.516 start
+756.858 click 4
+758.247 click 1
+765.856 enter
+766.133 select we 1
+766.136 start
+767.558 click 1
+768.938 click 1
+773.334 click 4
+776.704 click 3
+781.127 enter
+793.829 select less 1
+793.832 start
+801.153 delete
+801.157 start
+810.469 click 1
+811.904 click 1
+816.216 click 4
+819.45 click 3
+820.864 click 1
+822.212 click 1
+822.588 enter
+822.93 select missed 1
+822.933 start
+828.215 click 5
+830.581 click 2
+832.95 click 2
+838.371 click 1
+838.956 enter
+839.263 select your 1
+839.266 start
+840.659 click 1
+842.051 click 1
+845.508 click 3
+849.915 click 4
+851.303 click 1
+852.698 click 1
+854.037 click 1
+856.628 click 2
+857.241 enter
+857.576 select birthday 1
+857.579 start
+858.492 phrase world population is growing
+859.116 start
+863.486 click 4
+865.138 click 1
+867.283 click 2
+870.68 delete
+872.122 click 1
+875.607 click 3
+877.397 click 1
+878.12 enter
+878.496 select world 1
+878.499 start
+880.877 click 2
+882.212 click 1
+884.649 click 2
+887.024 click 2
+889.364 click 2
+890.645 click 1
+893.021 click 2
+894.532 click 1
+895.752 click 1
+897.082 click 1
+897.41 enter
+897.779 select population 1
+897.782 start
+907.145 click 1
+911.56 click 4
+912.389 enter
+912.778 select is 1
+912.781 start
+914.163 click 1
+918.569 click 4
+919.94 click 1
+924.303 click 4
+925.857 click 1
+927.598 click 1
+928.655 click 1
+932.024 enter
+932.602 select growing 1
+932.605 start
+933.525 phrase players must know all the rules
+934.084 start
+936.545 click 2
+937.912 click 1
+939.305 click 1
+948.415 click 9
+950.284 click 1
+956.734 click 2
+961.193 click 1
+962.155 enter
+962.527 select players 1
+962.531 start
+963.955 click 1
+970.495 click 6
+972.903 click 2
+975.324 click 2
+975.932 enter
+977.182 select must 2
+977.185 start
+978.568 click 1
+980.931 click 2
+983.334 click 2
+988.768 click 5
+989.121 enter
+989.446 select know 1
+989.449 start
+990.829 click 1
+993.229 click 2
+995.634 click 2
+999.045 click 3
+1004.429 delete
+1005.227 enter
+1005.6 select all 1
+1005.603 start
+1008.981 click 3
+1010.335 click 1
+1011.689 click 1
+1012.0 enter
+1012.306 select the 1
+1012.309 start
+1014.72 click 2
+1018.089 click 3
+1019.65 click 1
+1020.988 click 1
+1025.355 click 4
+1025.917 enter
+1026.51 select rules 1
+1026.513 start
+1028.916 phrase the price of gas is high
+1029.644 start
+1033.095 click 3
+1034.594 click 1
+1036.059 click 1
+1036.591 enter
+1037.066 select the 1
+1037.069 start
+1039.43 click 2
+1041.809 click 2
+1043.341 click 1
+1049.818 click 1
+1051.821 click 1
+1052.525 click 1
+1055.898 delete
+1056.777 enter
+1059.127 select price 3
+1059.13 start
+1060.808 click 1
+1062.222 click 1
+1074.797 enter
+1081.125 select of 1
+1081.129 start
+1082.588 click 1
+1083.982 click 1
+1088.455 click 4
+1089.283 enter
+1091.738 select gas 3
+1091.741 start
+1101.171 click 1
+1105.507 click 4
+1106.002 enter
+1106.405 select is 1
+1106.408 start
+1107.784 click 1
+1109.277 click 1
+1110.746 click 1
+1113.196 click 2
+1113.75 enter
+1116.153 select high 3
+1116.157 start

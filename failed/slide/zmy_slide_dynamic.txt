@@ -1,0 +1,1966 @@
+0.0 session 1
+0.0 phrase did you have a good time
+11.252 start
+11.267 click
+11.565 move
+12.284 move
+12.58 click
+12.893 move
+13.502 move
+13.705 click
+14.424 enter
+14.831 left
+15.143 left
+15.456 select did 4
+16.065 start
+16.08 move
+16.581 move
+16.893 click
+17.19 move
+17.909 click
+18.222 move
+18.831 move
+19.143 click
+19.753 enter
+20.065 select you 1
+20.878 start
+20.878 click
+21.284 move
+21.706 move
+22.003 click
+22.722 move
+22.925 click
+23.441 move
+23.753 click
+24.253 enter
+24.566 select have 1
+25.285 start
+25.285 move
+25.691 click
+26.097 enter
+26.41 select a 1
+27.129 start
+27.129 click
+27.644 move
+28.051 click
+28.77 click
+29.379 move
+29.691 click
+30.098 enter
+30.707 left
+31.114 select good 2
+31.942 start
+31.942 move
+32.457 move
+32.661 click
+33.172 move
+33.672 move
+33.985 click
+34.298 click
+35.939 delete
+36.86 move
+37.157 click
+37.782 move
+38.189 click
+38.798 enter
+39.111 select time 1
+40.961 phrase the music is better than it sounds
+42.18 start
+42.196 click
+42.993 move
+43.306 click
+44.634 click
+45.15 enter
+48.837 select her 1
+49.759 delete
+50.681 start
+50.681 click
+51.088 click
+51.494 click
+52.213 enter
+52.525 select the 1
+53.541 start
+53.556 move
+53.853 click
+54.057 click
+55.385 move
+55.697 click
+56.213 move
+56.619 move
+56.823 click
+57.338 move
+57.948 move
+58.26 click
+58.87 enter
+59.073 select music 1
+59.792 start
+59.792 move
+60.104 click
+60.511 move
+60.917 move
+61.229 click
+61.729 enter
+62.042 select is 1
+62.964 start
+62.964 click
+63.073 click
+65.527 click
+66.136 click
+66.745 click
+67.464 click
+70.137 delete
+71.871 delete
+72.996 delete
+74.028 delete
+74.838 delete
+75.556 move
+75.963 click
+76.385 move
+76.885 move
+77.306 click
+77.806 click
+78.322 click
+79.041 click
+79.76 enter
+80.073 select better 1
+80.885 start
+80.885 click
+81.698 move
+82.119 move
+82.62 click
+84.167 delete
+84.979 click
+85.495 move
+86.01 click
+86.932 delete
+87.542 move
+88.058 move
+88.464 click
+88.979 move
+89.48 click
+89.995 enter
+90.511 select than 1
+91.324 start
+91.339 move
+91.745 click
+92.043 move
+92.667 move
+93.073 click
+93.792 enter
+94.199 left
+94.496 select it 2
+95.527 start
+95.527 click
+96.043 move
+96.449 click
+97.168 click
+97.887 click
+98.496 move
+98.902 click
+99.418 move
+100.34 click
+100.95 enter
+101.371 select sounds 1
+102.886 phrase quit while you are ahead
+104.433 start
+104.433 move
+104.746 click
+105.261 move
+105.668 click
+105.746 click
+106.793 click
+107.402 enter
+107.918 right
+108.231 select quit 3
+109.153 start
+109.153 click
+109.559 click
+110.793 delete
+111.7 delete
+112.325 click
+112.825 click
+113.34 click
+114.372 delete
+115.184 move
+115.497 click
+116.106 move
+116.622 click
+116.934 move
+117.435 click
+118.06 enter
+118.357 select while 1
+119.075 start
+119.091 move
+119.591 move
+119.904 click
+120.404 move
+120.826 click
+121.747 delete
+121.81 move
+122.045 click
+123.482 delete
+124.404 move
+124.81 click
+125.217 move
+125.733 move
+126.138 click
+126.654 enter
+127.06 select you 1
+127.889 start
+127.889 move
+128.295 click
+128.905 click
+129.529 click
+130.03 enter
+130.342 select are 1
+131.061 start
+131.061 move
+131.467 click
+132.077 click
+132.702 click
+133.421 move
+133.718 move
+134.124 click
+134.749 click
+135.264 enter
+135.968 left
+136.28 select ahead 2
+137.711 phrase we have enough witnesses
+138.837 start
+138.852 click
+139.462 move
+139.759 click
+140.478 enter
+140.993 right
+141.29 select we 3
+142.322 start
+142.322 click
+142.728 move
+143.134 move
+143.446 click
+144.275 move
+144.572 click
+144.978 move
+145.494 click
+146.103 enter
+146.525 select have 1
+147.744 start
+147.759 click
+148.463 click
+149.182 move
+149.494 move
+149.901 click
+150.51 move
+150.823 click
+151.432 click
+152.057 click
+152.87 enter
+153.276 left
+153.588 select enough 2
+154.51 start
+154.51 click
+155.323 click
+155.948 click
+156.87 move
+157.073 click
+157.683 move
+158.402 move
+158.698 click
+159.527 move
+160.761 move
+161.167 click
+162.699 click
+163.621 click
+163.824 click
+164.543 enter
+164.746 select witnesses 1
+166.824 phrase information super highway
+168.027 start
+168.027 move
+168.231 click
+168.434 click
+170.168 click
+170.793 move
+171.2 click
+171.606 move
+172.122 move
+172.434 click
+173.137 move
+173.45 click
+174.059 move
+174.481 click
+175.091 click
+175.606 click
+175.684 click
+176.325 click
+176.935 enter
+177.138 select information 1
+179.185 start
+179.185 click
+179.701 move
+180.185 move
+180.513 click
+181.232 move
+181.466 move
+181.951 click
+182.263 move
+183.389 delete
+184.201 move
+184.513 move
+185.123 move
+185.639 click
+186.154 move
+186.561 click
+187.076 move
+187.373 click
+188.404 enter
+188.811 select super 1
+189.624 start
+189.639 click
+190.342 click
+191.061 click
+191.889 move
+192.186 move
+192.593 click
+193.436 move
+193.889 click
+195.061 click
+196.749 click
+198.374 delete
+199.718 delete
+200.713 delete
+201.667 delete
+203.214 click
+204.339 move
+204.636 click
+205.214 click
+205.964 move
+206.214 click
+206.808 enter
+207.152 select highway 1
+256.877 session 2
+256.877 phrase rapidly running short on words
+260.237 start
+260.237 click
+260.643 move
+261.003 move
+261.362 click
+261.784 move
+262.112 move
+262.394 move
+262.831 move
+263.238 click
+264.831 delete
+265.456 move
+265.769 move
+266.097 move
+266.738 move
+267.16 click
+267.738 move
+268.816 move
+269.051 click
+269.691 move
+270.051 click
+271.582 click
+272.222 click
+273.364 delete
+274.317 delete
+275.161 delete
+276.676 delete
+276.692 delete
+276.692 delete
+276.692 delete
+277.786 click
+278.348 move
+278.661 move
+279.067 click
+279.567 move
+279.895 move
+280.177 move
+280.614 move
+280.989 click
+282.615 delete
+283.302 move
+283.646 move
+283.99 move
+284.458 move
+284.708 click
+285.318 click
+285.927 click
+286.615 move
+286.865 click
+287.318 move
+287.615 click
+288.099 enter
+288.412 select rapidly 1
+289.74 start
+289.74 click
+290.193 move
+290.615 move
+290.943 click
+291.131 click
+292.35 delete
+293.037 move
+293.428 click
+294.116 move
+294.444 click
+294.803 move
+295.288 move
+295.475 click
+295.944 click
+296.46 enter
+301.945 select guilty 1
+303.21 delete
+304.023 start
+304.023 click
+304.523 move
+304.976 move
+305.289 click
+305.945 move
+306.258 click
+306.805 click
+307.461 move
+307.789 move
+308.149 click
+308.836 click
+309.414 click
+310.427 enter
+310.739 left
+311.005 select running 2
+311.708 start
+311.708 click
+312.364 click
+312.927 move
+313.224 move
+313.536 click
+314.021 move
+314.333 move
+314.646 click
+315.052 move
+315.427 move
+315.692 click
+316.24 enter
+316.49 select short 1
+317.13 start
+317.13 move
+317.38 click
+318.083 click
+318.834 enter
+319.146 right
+319.349 select on 3
+320.396 start
+320.396 move
+320.849 move
+321.178 click
+321.849 move
+322.131 click
+322.756 move
+323.084 move
+323.444 click
+323.959 move
+324.381 click
+324.944 click
+325.537 enter
+325.834 select words 1
+327.118 phrase this is too much to handle
+328.197 start
+328.197 click
+328.822 click
+329.806 move
+330.134 click
+330.603 move
+330.947 move
+331.291 click
+331.806 enter
+332.119 select this 1
+332.603 start
+332.619 move
+332.931 click
+333.713 move
+333.994 move
+334.276 click
+334.775 enter
+335.041 select is 1
+335.744 start
+335.744 click
+336.26 move
+336.651 click
+337.276 click
+337.76 enter
+338.182 left
+338.448 select too 2
+339.26 start
+339.26 move
+339.526 click
+340.151 click
+341.089 click
+341.651 click
+342.136 enter
+342.495 left
+342.729 select much 2
+343.464 start
+343.464 click
+344.027 move
+344.339 click
+344.823 enter
+345.089 select to 1
+345.886 start
+345.901 click
+346.308 move
+346.652 move
+346.949 click
+347.386 move
+347.667 move
+348.043 click
+348.683 move
+349.058 move
+349.308 click
+349.793 move
+350.105 move
+350.386 click
+350.808 move
+351.152 click
+351.637 enter
+351.887 select handle 1
+355.059 phrase call for more details
+356.277 start
+356.277 click
+356.684 move
+357.012 move
+357.262 click
+357.747 move
+358.106 move
+358.45 move
+358.934 move
+359.169 click
+359.747 click
+360.278 enter
+360.56 select call 1
+361.825 start
+361.825 click
+362.278 move
+362.607 click
+362.966 move
+363.325 move
+363.622 click
+364.185 enter
+364.45 select for 1
+365.185 start
+365.185 move
+365.451 click
+366.013 move
+366.295 click
+366.763 move
+367.075 move
+367.513 move
+367.701 click
+368.717 click
+369.279 enter
+369.529 select more 1
+370.107 start
+370.123 click
+370.732 move
+370.998 click
+371.498 move
+371.889 move
+372.123 click
+372.623 move
+372.983 click
+373.483 move
+373.889 click
+374.42 click
+375.233 move
+375.499 move
+375.78 click
+376.296 enter
+376.53 select details 1
+377.764 phrase longer than a football field
+379.015 start
+379.03 move
+379.296 click
+379.921 move
+380.155 click
+380.718 click
+381.468 click
+382.156 move
+382.406 click
+383.109 move
+383.312 click
+383.906 enter
+384.328 left
+384.562 select longer 2
+385.828 start
+385.828 click
+386.422 click
+387.0 move
+387.281 move
+387.625 click
+388.234 move
+388.875 click
+389.484 enter
+389.766 select than 1
+390.453 start
+390.453 move
+390.781 click
+391.36 enter
+391.61 select a 1
+392.203 start
+392.203 click
+392.985 move
+393.313 click
+393.938 click
+394.516 click
+395.048 click
+395.798 move
+396.079 click
+396.548 move
+396.969 click
+397.61 move
+397.829 click
+398.267 enter
+398.517 select football 1
+399.501 start
+399.516 click
+400.017 move
+400.439 move
+400.657 click
+401.408 click
+401.892 move
+402.251 move
+402.767 move
+403.08 click
+403.752 move
+404.08 click
+404.736 enter
+405.095 select field 1
+406.424 phrase the chamber makes important decisions
+407.611 start
+407.627 click
+407.768 click
+407.924 click
+408.486 enter
+408.705 select the 1
+409.533 start
+409.533 click
+410.033 click
+410.58 move
+410.986 move
+411.299 click
+411.721 move
+412.003 move
+412.424 click
+412.846 move
+413.331 move
+413.549 click
+414.096 move
+414.362 click
+414.909 move
+415.159 click
+415.643 enter
+415.878 select chamber 1
+416.972 start
+416.972 move
+417.237 click
+417.644 move
+417.972 move
+418.534 move
+418.847 click
+419.738 move
+420.019 move
+420.316 click
+420.753 move
+421.066 move
+421.347 click
+421.941 click
+422.41 enter
+422.754 select makes 1
+423.613 start
+423.613 move
+423.832 click
+424.019 click
+427.192 delete
+428.129 click
+428.723 move
+429.098 move
+429.426 click
+429.77 move
+430.301 move
+430.551 click
+431.145 click
+431.692 click
+432.333 click
+433.02 click
+433.645 click
+434.208 enter
+434.505 select important 1
+435.927 start
+435.927 click
+436.849 move
+437.521 click
+438.177 click
+438.927 move
+439.146 click
+439.677 move
+440.049 click
+440.517 move
+440.861 click
+441.455 click
+441.893 click
+442.424 click
+442.877 enter
+443.143 select decisions 1
+447.528 session 3
+447.543 phrase do you prefer a window seat
+475.749 start
+475.749 click
+476.453 move
+476.656 click
+477.5 enter
+478.109 left
+478.328 select do 2
+478.875 start
+478.89 click
+479.453 move
+479.797 click
+480.531 delete
+480.766 move
+481.403 move
+481.668 click
+484.293 move
+484.45 click
+485.716 delete
+486.591 delete
+488.185 move
+488.45 click
+489.013 click
+489.575 enter
+489.81 select you 1
+490.747 start
+490.747 move
+491.028 move
+491.326 click
+491.763 move
+492.248 move
+492.466 click
+492.951 click
+493.497 click
+494.373 move
+494.592 click
+495.185 move
+495.404 click
+496.889 enter
+497.232 left
+497.482 select prefer 2
+498.06 start
+498.076 move
+498.373 click
+499.123 enter
+499.451 select a 1
+500.342 start
+500.357 click
+501.014 click
+501.78 move
+502.045 click
+502.702 move
+504.343 click
+504.905 move
+505.249 click
+505.765 move
+506.108 click
+506.593 enter
+506.89 select window 1
+507.843 start
+507.858 click
+508.499 move
+508.859 click
+509.343 move
+509.796 click
+510.249 move
+510.499 click
+511.375 enter
+511.734 left
+512.062 left
+512.531 select seat 4
+518.767 phrase love means many things
+520.08 start
+520.08 move
+520.299 click
+520.955 move
+521.158 click
+521.83 move
+522.252 move
+522.471 click
+522.986 move
+523.268 click
+523.768 enter
+524.018 select love 1
+524.815 start
+524.83 move
+525.033 click
+525.58 move
+525.939 click
+526.299 move
+526.659 click
+527.096 move
+527.393 move
+527.768 click
+528.706 click
+529.253 enter
+529.518 select means 1
+530.19 start
+530.206 move
+530.425 click
+530.847 move
+531.159 move
+531.659 move
+531.925 click
+532.409 move
+532.659 click
+533.3 click
+533.769 enter
+534.097 select many 1
+534.769 start
+534.784 click
+535.347 click
+536.05 move
+536.285 click
+536.597 click
+537.363 click
+537.988 move
+538.285 click
+538.816 enter
+539.082 select things 1
+540.488 phrase you must be getting old
+541.582 start
+541.582 click
+542.207 move
+542.473 click
+542.989 click
+543.582 enter
+543.801 select you 1
+544.442 start
+544.457 move
+544.723 click
+545.317 click
+545.958 move
+546.301 click
+546.864 move
+547.098 click
+547.77 enter
+548.161 left
+548.489 select must 2
+549.552 start
+549.552 click
+550.114 move
+550.364 click
+550.849 enter
+551.052 select be 1
+551.771 start
+551.771 click
+552.364 move
+552.661 click
+553.255 click
+553.896 click
+554.349 click
+554.959 click
+555.568 click
+556.302 enter
+556.709 select getting 1
+557.443 start
+557.443 move
+557.74 click
+558.381 move
+558.6 click
+559.068 move
+559.381 move
+559.772 click
+561.537 enter
+561.756 select old 1
+562.459 phrase most judges are very honest
+563.678 start
+563.678 move
+564.006 click
+564.616 move
+564.881 click
+565.35 move
+565.663 move
+565.975 move
+566.334 click
+566.85 move
+567.116 click
+567.569 enter
+567.96 select most 1
+568.866 start
+568.866 move
+569.163 click
+569.741 click
+570.429 move
+571.288 move
+571.492 click
+572.21 click
+572.789 click
+573.788 move
+574.054 click
+574.741 enter
+575.258 left
+575.57 select judges 2
+576.351 start
+576.351 move
+576.742 click
+577.352 click
+577.805 click
+578.32 enter
+578.68 select are 1
+579.664 start
+579.664 click
+580.399 move
+580.68 click
+581.196 click
+581.68 click
+582.321 enter
+582.789 right
+583.087 select very 3
+583.899 start
+583.914 click
+584.399 move
+584.774 click
+585.196 move
+585.68 move
+585.961 click
+586.399 move
+586.758 click
+587.165 move
+587.54 click
+588.008 move
+588.43 move
+588.712 click
+589.227 enter
+589.477 select honest 1
+590.727 phrase that is a very odd question
+591.822 start
+591.822 click
+592.572 click
+593.103 move
+593.431 move
+593.713 click
+594.353 click
+595.182 enter
+595.525 select that 1
+596.197 start
+596.212 move
+596.494 click
+596.885 move
+597.213 move
+597.51 click
+598.151 enter
+598.369 select is 1
+598.978 start
+598.978 move
+599.229 click
+599.807 enter
+600.01 select a 1
+600.745 start
+600.76 click
+601.417 move
+601.667 click
+602.182 click
+602.729 click
+603.589 enter
+603.979 right
+604.214 select very 3
+604.933 start
+604.948 move
+605.292 click
+605.729 move
+606.136 click
+606.729 click
+609.964 delete
+611.011 move
+611.261 click
+613.215 delete
+613.887 move
+614.574 delete
+615.293 move
+615.621 click
+616.371 click
+617.059 enter
+617.746 right
+619.637 nextPage
+620.372 left
+620.637 select odd 6
+621.7 start
+621.715 move
+622.044 click
+622.513 move
+622.778 click
+623.216 move
+623.685 move
+623.935 click
+624.446 move
+624.696 click
+625.18 move
+625.571 move
+625.821 click
+626.321 move
+626.618 click
+627.071 click
+627.556 click
+628.259 enter
+628.587 select question 1
+633.212 session 4
+633.212 phrase learn to walk before you run
+634.462 start
+634.478 move
+634.79 click
+635.337 move
+635.666 click
+636.103 move
+636.431 click
+636.931 click
+637.51 click
+638.057 enter
+638.728 right
+638.947 select learn 3
+639.775 start
+639.791 click
+640.479 move
+640.713 click
+641.354 enter
+641.729 select to 1
+642.526 start
+642.541 click
+643.025 move
+643.338 move
+643.635 click
+644.073 move
+644.354 move
+644.635 move
+645.104 move
+645.307 click
+645.885 move
+646.135 click
+646.651 enter
+647.823 left
+648.136 select walk 2
+648.87 start
+648.885 click
+649.417 move
+649.651 click
+650.151 click
+650.886 move
+651.167 move
+651.417 click
+651.839 move
+652.183 click
+653.074 click
+653.652 enter
+653.902 select before 1
+654.793 start
+654.793 click
+655.402 move
+655.683 click
+656.324 click
+657.011 enter
+657.23 select you 1
+657.871 start
+657.871 click
+658.449 click
+658.715 click
+659.856 delete
+660.59 move
+660.809 click
+661.496 enter
+661.793 left
+662.356 select run 2
+664.325 phrase yes you are very smart
+666.044 start
+666.059 click
+666.638 move
+666.903 click
+667.388 click
+668.013 enter
+669.341 nextPage
+670.138 left
+670.404 select yes 7
+671.669 start
+671.685 click
+672.435 move
+672.654 click
+673.295 click
+673.998 enter
+674.248 select you 1
+674.904 start
+674.919 move
+675.248 click
+676.092 click
+677.342 click
+678.029 enter
+678.732 select are 1
+679.686 start
+679.701 click
+680.389 move
+680.686 click
+681.186 click
+681.764 click
+682.639 enter
+683.171 right
+683.405 select very 3
+684.249 start
+684.264 move
+684.718 move
+684.936 click
+685.327 move
+685.843 move
+686.093 click
+686.499 move
+686.874 click
+687.937 delete
+688.484 move
+688.89 move
+689.218 click
+689.843 move
+690.296 move
+690.671 click
+691.25 move
+691.593 click
+692.515 enter
+692.937 select start 1
+698.041 phrase with each step forward
+699.463 start
+699.478 click
+700.041 click
+700.62 click
+701.198 click
+701.948 enter
+702.151 select with 1
+703.073 start
+703.073 click
+703.714 move
+704.058 move
+704.37 click
+705.136 move
+705.433 click
+706.089 move
+706.401 click
+706.98 enter
+707.605 select each 1
+708.714 start
+708.729 click
+709.448 click
+709.98 click
+710.964 move
+711.152 move
+711.542 move
+712.089 move
+712.277 click
+712.996 enter
+713.48 select step 1
+714.637 start
+714.652 click
+715.324 move
+715.621 click
+716.059 move
+716.418 move
+716.715 click
+717.137 move
+717.512 click
+718.2 move
+718.465 click
+718.981 click
+719.45 click
+719.95 enter
+720.184 select forward 1
+721.7 phrase my watch fell in the water
+722.934 start
+722.95 move
+723.2 click
+723.888 delete
+723.981 move
+724.2 click
+726.091 delete
+726.779 move
+727.091 click
+727.638 click
+728.513 enter
+728.779 select in 1
+730.31 delete
+731.107 start
+731.107 move
+731.404 click
+731.873 click
+732.529 enter
+732.857 left
+733.107 left
+733.326 select my 4
+733.857 start
+733.873 click
+734.373 move
+734.639 move
+734.873 click
+735.326 move
+735.592 click
+736.076 move
+736.451 move
+736.78 move
+737.045 move
+737.327 click
+737.858 click
+738.405 enter
+738.608 select watch 1
+739.843 start
+739.858 click
+740.436 move
+740.686 click
+741.218 move
+741.655 click
+742.218 move
+742.452 click
+743.234 enter
+744.515 nextPage
+745.14 select fell 6
+745.906 start
+745.921 move
+746.124 click
+746.859 click
+747.421 enter
+747.734 select in 1
+748.562 start
+748.562 click
+748.797 click
+748.968 click
+749.484 enter
+749.719 select the 1
+750.531 start
+750.531 click
+751.047 move
+751.297 move
+751.562 click
+752.094 move
+752.313 click
+752.688 move
+752.938 click
+753.344 move
+753.719 move
+753.938 click
+754.5 enter
+755.032 select water 1
+756.282 phrase important news always seems to be late
+760.173 start
+760.173 move
+760.954 click
+761.61 click
+762.22 move
+762.486 move
+762.767 click
+763.314 click
+763.767 click
+764.329 click
+764.923 click
+765.642 click
+766.158 click
+766.564 enter
+766.783 select important 1
+767.455 start
+767.47 move
+767.83 click
+768.345 move
+768.642 click
+768.986 move
+769.439 move
+769.627 click
+770.33 move
+770.58 click
+771.205 enter
+771.752 left
+772.065 select news 2
+772.674 start
+772.689 move
+772.971 click
+773.44 move
+773.815 click
+774.205 move
+774.534 click
+775.143 click
+775.643 click
+776.284 move
+776.549 click
+777.221 enter
+777.55 select always 1
+778.315 start
+778.331 click
+778.972 move
+779.347 click
+779.987 click
+780.644 move
+781.081 click
+781.784 move
+782.144 click
+782.691 enter
+782.972 select seems 1
+783.628 start
+783.628 click
+784.285 move
+784.535 click
+785.316 enter
+785.722 select to 1
+786.801 start
+786.801 click
+787.348 move
+787.629 click
+788.176 enter
+788.441 select be 1
+789.426 start
+789.426 move
+789.692 click
+790.11 move
+790.438 move
+791.001 move
+791.251 click
+791.844 click
+792.391 click
+792.938 enter
+793.391 right
+793.641 select late 3
+797.309 session 5
+797.309 phrase an airport is a very busy place
+802.873 start
+802.873 move
+803.732 click
+804.326 move
+804.513 click
+804.982 enter
+805.201 select an 1
+805.873 start
+805.873 move
+806.123 click
+806.576 move
+806.998 click
+807.342 move
+807.811 move
+807.983 click
+808.514 move
+808.764 click
+809.045 click
+809.701 click
+810.201 click
+810.686 enter
+811.342 select airport 1
+811.999 start
+811.999 move
+812.217 click
+812.639 move
+812.967 move
+813.249 click
+813.905 enter
+814.155 select is 1
+814.702 start
+814.717 move
+814.968 click
+815.765 enter
+815.999 select a 1
+816.687 start
+816.687 click
+817.265 move
+817.592 click
+818.03 click
+818.484 click
+819.218 enter
+819.531 right
+819.796 select very 3
+820.593 start
+820.593 click
+821.125 click
+821.718 move
+821.953 click
+822.531 click
+823.0 enter
+824.172 nextPage
+824.703 select busy 6
+825.609 start
+825.609 move
+825.938 move
+826.265 click
+826.828 click
+827.391 move
+827.703 move
+828.0 click
+828.547 click
+829.016 click
+829.438 enter
+829.781 select place 1
+831.383 phrase presidents drive expensive cars
+832.556 start
+832.571 move
+832.869 move
+833.165 click
+833.837 click
+834.322 click
+834.931 move
+835.197 click
+835.697 click
+836.306 click
+836.791 click
+837.728 click
+838.275 click
+838.728 move
+838.994 click
+839.416 enter
+839.76 select presidents 1
+840.494 start
+840.51 click
+840.776 click
+841.494 move
+841.713 click
+842.385 click
+842.854 move
+843.135 click
+843.667 enter
+844.588 left
+844.885 left
+845.245 select drive 4
+846.245 start
+846.26 click
+846.838 move
+847.089 click
+847.917 move
+848.276 move
+848.542 click
+849.011 move
+849.292 click
+849.777 click
+850.448 move
+850.683 click
+851.339 move
+851.542 click
+852.136 click
+852.605 click
+852.949 enter
+853.183 select expensive 1
+853.964 start
+853.98 click
+854.48 move
+854.793 move
+855.105 click
+855.73 move
+855.98 click
+856.293 move
+856.637 click
+857.73 delete
+858.34 move
+858.668 move
+858.965 click
+859.668 enter
+860.184 select cars 1
+861.621 phrase the postal service is very slow
+862.84 start
+862.856 click
+863.419 click
+863.934 click
+864.419 enter
+864.669 select the 1
+865.372 start
+865.372 move
+865.684 move
+865.966 click
+866.481 click
+867.013 move
+867.309 click
+867.888 click
+868.528 move
+868.857 click
+869.45 click
+869.872 enter
+870.154 select postal 1
+870.763 start
+870.778 click
+871.388 move
+871.638 click
+872.107 click
+872.638 click
+873.107 click
+873.701 click
+874.357 move
+874.607 click
+875.154 click
+875.748 enter
+876.17 select services 1
+879.108 start
+879.123 move
+879.42 click
+879.826 move
+880.155 move
+880.405 click
+880.983 enter
+881.233 select is 1
+881.936 start
+881.951 click
+882.593 move
+882.874 click
+883.342 click
+883.874 click
+884.499 enter
+884.811 right
+885.061 select very 3
+885.874 start
+885.889 click
+886.296 move
+886.593 click
+886.827 click
+888.499 move
+888.858 move
+889.109 click
+890.046 enter
+890.328 left
+890.609 select slow 2
+891.922 phrase good jobs for those with education
+893.047 start
+893.062 click
+893.578 move
+893.937 click
+894.484 click
+894.938 move
+895.297 click
+895.891 enter
+896.235 left
+896.516 select good 2
+897.141 start
+897.156 move
+897.36 click
+897.906 move
+898.328 click
+898.766 move
+899.219 move
+899.422 click
+900.751 move
+901.094 move
+901.344 click
+901.876 enter
+902.173 select jobs 1
+903.032 start
+903.047 click
+903.735 move
+903.985 click
+904.501 move
+904.814 move
+905.064 click
+905.564 enter
+905.814 select for 1
+906.439 start
+906.439 click
+907.001 click
+907.595 move
+907.892 move
+908.126 click
+908.595 move
+908.892 move
+909.236 move
+909.533 click
+910.22 move
+910.424 click
+911.08 enter
+911.345 select those 1
+912.393 start
+912.408 click
+912.955 click
+913.643 click
+914.268 click
+915.08 enter
+915.33 select with 1
+916.049 start
+916.064 click
+916.612 move
+916.877 click
+917.549 move
+917.768 click
+918.393 click
+918.878 move
+919.284 click
+919.69 click
+920.33 click
+920.815 click
+921.362 click
+921.909 enter
+922.128 select education 1
+923.175 phrase beautiful paintings in the gallery
+924.331 start
+924.347 click
+924.988 move
+925.268 click
+925.69 move
+925.972 click
+926.425 move
+926.847 click
+927.457 click
+928.207 click
+929.019 click
+929.519 click
+930.238 move
+930.504 click
+931.223 enter
+931.488 select beautiful 1
+932.301 start
+932.301 move
+932.613 move
+933.067 click
+933.457 move
+933.926 click
+934.426 click
+935.082 move
+935.301 click
+935.801 click
+936.52 move
+936.739 click
+937.239 click
+937.77 click
+938.254 click
+938.583 enter
+938.942 select paintings 1
+939.567 start
+939.567 move
+939.802 click
+940.411 click
+940.911 enter
+941.208 select in 1
+941.896 start
+941.911 click
+942.052 click
+942.177 click
+942.708 enter
+942.942 select the 1
+943.677 start
+943.677 click
+943.99 move
+944.396 move
+944.693 click
+945.161 move
+945.459 move
+945.724 move
+946.13 click
+947.396 delete
+948.053 move
+948.381 move
+948.74 move
+948.99 click
+949.865 click
+950.693 click
+951.178 click
+951.459 click
+952.006 enter
+952.209 select gallery 1
+955.381 session 6
+955.381 phrase do not feel too bad about it
+981.556 start
+981.556 click
+982.087 move
+982.337 click
+982.931 enter
+983.275 left
+983.588 select do 2
+984.588 start
+984.603 move
+984.838 click
+985.572 move
+985.791 click
+986.275 click
+986.869 enter
+987.197 select not 1
+987.994 start
+987.994 click
+988.572 move
+988.791 click
+989.412 click
+990.428 move
+990.709 move
+990.944 click
+991.413 enter
+991.694 select feel 1
+992.366 start
+992.366 click
+992.928 move
+993.194 click
+993.663 click
+994.194 enter
+994.585 left
+994.866 select too 2
+995.523 start
+995.523 click
+995.882 move
+996.241 move
+996.523 click
+997.007 click
+997.554 enter
+998.366 left
+998.632 left
+998.882 select bad 4
+999.523 start
+999.554 move
+999.882 click
+1000.335 click
+1001.101 move
+1001.289 click
+1001.757 click
+1002.289 click
+1003.054 enter
+1003.257 select about 1
+1003.867 start
+1003.882 move
+1004.086 click
+1004.649 click
+1005.273 enter
+1005.57 left
+1005.898 select it 2
+1007.503 phrase the union will go on strike
+1008.581 start
+1008.581 click
+1009.159 click
+1009.659 click
+1010.378 enter
+1010.628 select the 1
+1011.378 start
+1011.378 move
+1011.628 click
+1012.175 click
+1012.863 move
+1013.082 click
+1013.754 move
+1014.004 click
+1014.519 click
+1014.973 enter
+1015.238 select union 1
+1016.16 start
+1016.16 move
+1016.566 move
+1016.879 click
+1017.363 click
+1018.02 move
+1018.27 move
+1018.551 click
+1019.082 click
+1019.723 enter
+1020.036 left
+1020.317 select will 2
+1021.067 start
+1021.067 click
+1021.77 move
+1021.989 click
+1022.473 enter
+1022.88 left
+1023.145 left
+1023.458 select go 4
+1023.958 start
+1023.973 move
+1024.27 click
+1024.942 click
+1025.364 enter
+1025.724 right
+1026.005 select on 3
+1027.083 start
+1027.083 click
+1027.536 click
+1028.083 click
+1028.786 move
+1029.036 move
+1029.302 click
+1029.958 click
+1030.474 move
+1030.787 move
+1031.037 click
+1031.443 enter
+1032.209 left
+1032.427 select strike 2
+1033.443 phrase taking the train is usually faster
+1034.693 start
+1034.709 click
+1035.131 move
+1035.428 move
+1035.725 click
+1036.74 move
+1037.037 move
+1037.287 move
+1037.678 click
+1038.241 click
+1038.959 click
+1039.506 move
+1039.756 click
+1040.256 enter
+1040.522 select taking 1
+1041.178 start
+1041.209 click
+1041.866 click
+1042.444 click
+1043.1 enter
+1043.429 select the 1
+1044.163 start
+1044.163 click
+1044.71 click
+1045.382 move
+1045.663 move
+1045.991 click
+1046.445 move
+1046.741 move
+1047.054 click
+1047.585 click
+1048.069 enter
+1048.648 right
+1048.914 select train 3
+1049.632 start
+1049.632 move
+1049.945 click
+1050.398 move
+1050.711 move
+1051.008 click
+1051.445 enter
+1051.679 select is 1
+1052.648 start
+1052.648 move
+1052.898 click
+1053.351 move
+1053.679 move
+1053.961 click
+1054.414 move
+1054.773 move
+1055.024 click
+1055.524 move
+1055.883 click
+1056.43 move
+1056.742 click
+1057.258 click
+1057.727 click
+1058.18 enter
+1058.415 select usually 1
+1059.102 start
+1059.102 click
+1059.508 move
+1059.805 move
+1060.102 click
+1060.774 delete
+1061.243 move
+1061.712 click
+1063.056 click
+1063.478 click
+1063.728 click
+1064.681 delete
+1066.587 enter
+1067.396 nextPage
+1067.974 select west 6
+1069.146 delete
+1069.834 start
+1069.834 click
+1070.334 move
+1070.615 move
+1070.975 click
+1071.412 click
+1072.069 move
+1072.318 click
+1072.772 move
+1073.178 click
+1073.819 move
+1074.038 click
+1074.522 enter
+1075.335 select faster 1
+1084.322 phrase every apple from every tree
+1085.463 start
+1085.463 click
+1086.072 click
+1086.588 click
+1087.088 click
+1087.885 move
+1088.104 click
+1088.76 enter
+1089.057 select every 1
+1089.744 start
+1089.76 move
+1090.01 click
+1090.51 move
+1090.791 move
+1091.104 click
+1091.667 click
+1092.416 click
+1092.964 click
+1093.479 enter
+1094.151 right
+1094.37 select apple 3
+1095.167 start
+1095.182 click
+1095.823 click
+1096.37 move
+1096.667 move
+1096.917 click
+1097.464 click
+1097.964 enter
+1098.214 select from 1
+1098.886 start
+1098.901 click
+1099.37 click
+1099.964 click
+1100.527 click
+1101.261 move
+1101.495 click
+1102.011 enter
+1102.246 select every 1
+1102.917 start
+1102.917 click
+1103.449 click
+1104.011 click
+1104.668 move
+1104.949 click
+1105.637 enter
+1106.309 right
+1107.934 nextPage
+1109.262 nextPage
+1109.965 select tree 13
+1112.324 phrase you are a wonderful example
+1113.45 start
+1113.465 click
+1114.216 move
+1114.403 click
+1114.888 click
+1115.7 enter
+1115.919 select you 1
+1116.575 start
+1116.591 move
+1116.904 click
+1117.497 click
+1118.075 click
+1118.716 enter
+1119.076 select are 1
+1119.638 start
+1119.638 move
+1119.904 click
+1120.451 enter
+1120.701 select a 1
+1121.935 start
+1121.951 move
+1122.326 move
+1122.623 click
+1123.264 move
+1123.576 click
+1124.06 click
+1124.576 move
+1124.842 click
+1125.561 click
+1126.03 click
+1126.983 delete
+1127.608 move
+1127.842 click
+1128.499 click
+1129.014 click
+1129.686 move
+1129.889 click
+1130.468 enter
+1130.655 select wonderful 1
+1131.405 start
+1131.405 click
+1132.015 move
+1132.265 click
+1132.733 move
+1132.983 click
+1133.452 move
+1133.733 move
+1134.03 click
+1134.968 click
+1135.609 move
+1135.827 click
+1136.671 click
+1137.124 enter
+1137.328 select example 1

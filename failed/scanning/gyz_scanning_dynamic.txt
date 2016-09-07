@@ -1,0 +1,498 @@
+0.001 session 1
+0.977 phrase this equation is too complicated
+0.98 start
+4.239 click 3
+5.591 click 1
+6.951 click 1
+9.314 click 2
+9.476 enter
+9.779 select this 1
+9.782 start
+11.115 click 1
+14.475 click 3
+16.853 click 2
+18.19 click 1
+20.501 click 2
+21.801 click 1
+23.106 click 1
+24.426 click 1
+24.59 enter
+24.825 select equation 1
+24.827 start
+26.15 click 1
+30.53 click 4
+30.73 enter
+31.016 select is 1
+31.019 start
+34.373 click 3
+36.691 click 2
+38.096 click 1
+38.264 enter
+38.558 select too 1
+38.56 start
+39.855 click 1
+42.204 click 2
+43.594 click 1
+46.92 click 3
+48.201 click 1
+49.55 click 1
+50.862 click 1
+52.188 click 1
+55.544 click 3
+56.856 click 1
+58.202 click 1
+58.375 enter
+58.652 select complicated 1
+58.655 start
+59.374 phrase the objective of the exercise
+61.68 start
+64.006 click 3
+65.314 click 1
+66.67 click 1
+66.819 enter
+66.996 select the 1
+66.998 start
+71.721 delete
+71.721 start
+74.389 click 3
+75.732 click 1
+77.043 click 1
+77.205 enter
+77.62 select the 1
+77.622 start
+78.951 click 1
+80.291 click 1
+82.652 click 2
+85.019 click 2
+86.526 click 1
+88.96 click 2
+90.251 click 1
+91.564 click 1
+92.891 click 1
+93.054 enter
+93.389 select objective 1
+93.392 start
+94.733 click 1
+96.089 click 1
+96.24 enter
+96.575 select of 1
+96.578 start
+99.877 click 3
+101.102 click 1
+102.424 click 1
+102.594 enter
+102.752 select the 1
+102.755 start
+104.082 click 1
+112.419 click 8
+113.746 click 1
+116.07 click 2
+117.389 click 1
+118.717 click 1
+120.088 click 1
+121.428 click 1
+121.603 enter
+121.946 select exercise 1
+121.949 start
+122.83 phrase hands on experience with a job
+123.922 start
+124.937 click 1
+125.932 click 1
+127.612 click 2
+128.996 click 1
+132.373 click 3
+132.588 enter
+132.999 select hands 1
+132.999 start
+134.408 click 1
+136.731 click 2
+137.903 click 1
+139.279 delete
+139.339 delete
+139.398 delete
+139.441 delete
+139.444 start
+140.59 click 1
+141.958 click 1
+144.305 click 2
+145.685 click 1
+145.905 enter
+148.379 delete
+148.441 delete
+148.517 delete
+148.577 delete
+149.496 click 1
+150.82 click 1
+153.227 click 2
+154.558 click 1
+157.96 click 3
+158.126 enter
+158.571 select hands 1
+158.574 start
+159.871 click 1
+162.234 click 2
+162.427 enter
+163.7 select on 2
+163.736 start
+165.064 click 1
+173.49 click 8
+174.813 click 1
+176.169 click 1
+177.487 click 1
+178.841 click 1
+180.144 click 1
+181.479 click 1
+182.846 click 1
+184.183 click 1
+184.33 enter
+184.626 select experience 1
+184.628 start
+188.993 click 4
+190.333 click 1
+193.754 click 3
+195.1 click 1
+195.241 enter
+195.559 select with 1
+195.562 start
+196.885 click 1
+197.036 enter
+197.191 select a 1
+197.194 start
+198.568 click 1
+200.879 click 2
+202.634 click 1
+203.032 enter
+207.334 nextPage
+208.011 nextPage
+209.348 lastPage
+212.707 select job 7
+212.71 start
+213.946 phrase destruction of the rain forest
+214.762 start
+216.231 click 1
+217.594 click 1
+221.848 click 4
+225.323 click 3
+227.644 click 2
+229.922 click 2
+231.308 click 1
+232.63 click 1
+233.931 click 1
+235.198 click 1
+236.474 click 1
+236.653 enter
+236.919 select destruction 1
+236.922 start
+238.266 click 1
+239.767 click 1
+240.099 enter
+240.298 select of 1
+240.3 start
+243.644 click 3
+244.952 click 1
+246.298 click 1
+246.469 enter
+246.733 select the 1
+246.736 start
+249.104 click 2
+250.408 click 1
+251.671 click 1
+255.043 click 3
+255.203 enter
+259.485 nextPage
+265.822 nextPage
+273.344 lastPage
+273.706 lastPage
+279.051 nextPage
+279.736 nextPage
+282.059 select rain 9
+282.062 start
+283.444 click 1
+285.793 click 2
+289.236 click 3
+290.604 click 1
+293.957 click 3
+296.327 click 2
+296.515 enter
+296.825 select forest 1
+296.828 start
+297.655 phrase coalition governments never work
+298.665 start
+299.746 click 1
+302.13 click 2
+303.513 click 1
+305.859 click 2
+307.274 click 1
+312.61 click 5
+313.977 click 1
+316.29 click 2
+317.664 click 1
+317.843 enter
+318.247 select coalition 1
+318.25 start
+319.898 click 1
+322.257 click 2
+327.726 click 5
+329.082 click 1
+330.5 click 1
+331.912 click 1
+333.273 click 1
+334.6 click 1
+335.955 click 1
+337.338 click 1
+338.662 click 1
+338.867 enter
+339.188 select governments 1
+339.191 start
+340.602 click 1
+341.952 click 1
+348.343 click 6
+350.662 click 2
+354.025 click 3
+354.255 enter
+354.611 select never 1
+354.614 start
+358.958 click 4
+360.412 click 1
+361.716 click 1
+364.106 click 2
+364.593 enter
+367.929 select work 4
+367.932 start
+391.446 phrase you should visit a doctor
+395.892 start
+400.404 click 5
+402.718 click 2
+405.091 click 2
+405.297 enter
+405.607 select you 1
+405.61 start
+407.924 click 2
+409.416 click 1
+410.801 click 1
+417.231 click 6
+418.633 click 1
+419.979 click 1
+420.131 enter
+420.525 select should 1
+420.527 start
+424.822 click 4
+426.197 click 1
+428.519 click 2
+429.862 click 1
+432.176 click 2
+432.344 enter
+432.716 select visit 1
+432.718 start
+434.047 click 1
+434.24 enter
+434.511 select a 1
+434.513 start
+435.83 click 1
+438.215 click 2
+439.598 click 1
+444.992 click 5
+446.309 click 1
+449.639 click 3
+449.806 enter
+451.133 select doctor 2
+451.135 start
+451.711 phrase rent is paid at the beginning of the month
+454.215 start
+456.456 click 2
+457.839 click 1
+459.281 click 1
+464.638 click 5
+464.781 enter
+469.31 nextPage
+474.586 select rent 8
+474.588 start
+475.909 click 1
+480.302 click 4
+480.479 enter
+480.66 select is 1
+480.663 start
+483.063 click 2
+484.371 click 1
+485.706 click 1
+487.062 click 1
+487.238 enter
+491.56 nextPage
+497.845 nextPage
+502.152 select paid 11
+502.155 start
+503.524 click 1
+508.909 click 5
+509.094 enter
+510.363 select at 2
+510.366 start
+513.8 click 3
+515.154 click 1
+516.475 click 1
+516.638 enter
+516.797 select the 1
+516.8 start
+518.116 click 1
+519.458 click 1
+520.744 click 1
+523.059 click 2
+524.39 click 1
+525.759 click 1
+528.102 click 2
+529.452 click 1
+530.818 click 1
+531.006 enter
+531.303 select beginning 1
+531.306 start
+540.683 click 1
+542.093 click 1
+542.312 enter
+542.758 select of 1
+542.761 start
+546.118 click 3
+547.477 click 1
+548.823 click 1
+549.0 enter
+549.299 select the 1
+549.301 start
+550.668 click 1
+553.026 click 2
+554.367 click 1
+559.716 click 5
+561.082 click 1
+561.254 enter
+561.809 select month 1
+561.812 start
+562.492 phrase the punishment should fit the crime
+564.981 start
+568.138 click 3
+569.472 click 1
+570.819 click 1
+571.012 enter
+571.245 select the 1
+571.247 start
+573.554 click 2
+576.855 click 3
+578.232 click 1
+579.601 click 1
+583.975 click 4
+585.353 click 1
+586.581 click 1
+587.822 click 1
+589.106 click 1
+590.411 click 1
+590.631 enter
+590.877 select punishment 1
+590.88 start
+593.117 click 2
+594.447 click 1
+595.679 click 1
+602.037 click 6
+603.38 click 1
+604.762 click 1
+604.949 enter
+605.216 select should 1
+605.219 start
+606.557 click 1
+607.981 click 1
+613.42 click 5
+613.666 enter
+617.951 nextPage
+618.68 nextPage
+622.98 select fit 11
+622.983 start
+626.255 click 3
+627.522 click 1
+628.868 click 1
+629.031 enter
+629.198 select the 1
+629.201 start
+630.459 click 1
+634.751 click 4
+636.124 click 1
+637.492 click 1
+639.837 click 2
+640.008 enter
+641.337 select crime 2
+641.339 start
+641.806 phrase just in time for the party
+643.321 start
+644.275 click 1
+650.677 click 6
+653.012 click 2
+655.432 click 2
+655.606 enter
+655.968 select just 1
+655.97 start
+657.27 click 1
+659.636 click 2
+659.814 enter
+660.135 select in 1
+660.138 start
+663.493 click 3
+664.822 click 1
+667.193 click 2
+668.546 click 1
+668.738 enter
+669.005 select time 1
+669.008 start
+670.365 click 1
+672.735 click 2
+676.133 click 3
+676.307 enter
+676.641 select for 1
+676.644 start
+680.358 click 3
+681.663 click 1
+682.996 click 1
+683.156 enter
+683.386 select the 1
+683.388 start
+685.721 click 2
+686.992 click 1
+690.305 click 3
+692.651 click 2
+695.046 click 2
+695.208 enter
+695.563 select party 1
+695.566 start
+696.128 phrase the library is closed today
+696.824 start
+699.785 click 3
+701.139 click 1
+702.487 click 1
+702.637 enter
+703.052 select the 1
+703.055 start
+704.399 click 1
+705.757 click 1
+707.196 click 1
+712.577 click 5
+713.899 click 1
+715.463 click 1
+718.81 click 3
+719.013 enter
+719.347 select library 1
+719.35 start
+720.592 click 1
+725.01 click 4
+725.183 enter
+725.55 select is 1
+725.553 start
+726.877 click 1
+729.245 click 2
+730.64 click 1
+734.965 click 4
+736.308 click 1
+737.624 click 1
+737.787 enter
+738.095 select closed 1
+738.097 start
+741.392 click 3
+743.723 click 2
+745.068 click 1
+746.316 click 1
+750.631 click 4
+750.803 enter
+751.086 select today 1
+751.089 start

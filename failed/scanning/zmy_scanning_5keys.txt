@@ -1,0 +1,541 @@
+0.0 session 1
+2.235 phrase staying up all night is a bad idea
+2.25 start
+13.346 click 4
+17.549 click 4
+18.815 click 1
+23.941 click 5
+54.553 click 2
+57.913 click 3
+67.148 click 2
+67.461 enter
+67.945 select staying 1
+67.945 start
+73.024 click 5
+77.149 click 4
+77.946 enter
+78.431 select up 1
+78.446 start
+79.727 click 1
+83.025 click 3
+86.275 click 3
+86.525 enter
+86.947 select all 1
+86.963 start
+90.276 click 3
+92.385 click 2
+95.151 click 2
+97.339 click 2
+101.464 click 4
+102.167 enter
+102.542 select might 1
+102.542 start
+105.809 delete
+105.824 start
+105.824 delete
+105.824 start
+105.84 delete
+105.84 start
+105.84 delete
+105.855 start
+109.184 click 3
+110.465 delete
+114.56 click 4
+118.857 click 4
+120.154 click 1
+125.358 click 5
+127.655 click 2
+130.874 click 3
+133.046 click 2
+133.999 enter
+134.296 select staying 1
+134.296 start
+139.515 click 5
+143.594 click 4
+143.875 enter
+144.313 select up 1
+144.313 start
+145.594 click 1
+148.923 click 3
+152.189 click 3
+153.142 enter
+153.423 select all 1
+153.438 start
+156.673 click 3
+158.892 click 2
+161.174 click 2
+163.33 click 2
+167.643 click 4
+167.94 enter
+169.253 select night 2
+169.268 start
+178.52 click 2
+182.832 click 4
+183.176 enter
+183.504 select is 1
+183.504 start
+184.755 click 1
+185.176 enter
+185.473 select a 1
+185.489 start
+186.942 click 1
+188.177 click 1
+189.411 click 1
+189.895 enter
+190.287 select bad 1
+190.302 start
+192.662 click 2
+193.928 click 1
+195.099 click 1
+196.302 click 1
+196.647 enter
+197.959 select idea 2
+197.975 start
+204.21 phrase what you see is what you get
+212.117 start
+217.133 click 5
+219.477 click 2
+220.758 click 1
+225.024 click 4
+225.853 enter
+226.056 select what 1
+226.056 start
+231.4 click 5
+234.682 click 3
+240.026 click 5
+240.448 enter
+240.714 select you 1
+240.714 start
+245.074 click 4
+246.324 click 1
+247.621 click 1
+248.011 enter
+248.293 select see 1
+248.308 start
+250.621 click 2
+254.887 click 4
+255.325 enter
+255.684 select is 1
+255.715 start
+261.075 click 5
+263.372 click 2
+264.482 click 1
+268.81 click 4
+269.123 enter
+269.404 select what 1
+269.404 start
+274.733 click 5
+277.983 click 3
+283.265 click 5
+283.89 enter
+284.203 select you 1
+284.203 start
+286.515 click 2
+287.844 click 1
+292.032 click 4
+292.672 enter
+294.923 select get 3
+294.923 start
+297.376 phrase the winner of the race
+301.126 start
+305.095 click 4
+307.439 click 2
+308.908 click 1
+309.424 enter
+309.721 select the 1
+309.721 start
+315.034 click 5
+317.331 click 2
+320.581 click 3
+323.863 click 3
+325.973 click 2
+332.254 delete
+340.24 delete
+340.255 delete
+340.271 delete
+340.271 delete
+340.287 delete
+340.287 start
+344.506 click 4
+346.881 click 2
+348.178 click 1
+348.772 enter
+349.053 select the 1
+349.069 start
+354.413 click 5
+356.71 click 2
+360.008 click 3
+363.321 click 3
+364.492 click 1
+368.774 click 4
+369.29 enter
+369.649 select winner 1
+369.649 start
+372.931 click 3
+375.243 click 2
+375.681 enter
+375.978 select of 1
+375.978 start
+380.229 click 4
+382.463 click 2
+383.541 click 1
+384.245 enter
+384.666 select the 1
+384.682 start
+388.995 click 4
+390.058 click 1
+391.792 click 1
+393.214 click 1
+393.761 enter
+395.183 select race 2
+395.183 start
+396.855 phrase the fourth edition was better
+400.027 start
+403.59 click 4
+405.872 click 2
+407.122 click 1
+407.919 enter
+408.278 select the 1
+408.278 start
+410.576 click 2
+413.779 click 3
+419.045 click 5
+423.452 click 4
+423.749 enter
+427.109 delete
+427.124 delete
+427.124 delete
+427.14 delete
+427.14 delete
+427.155 start
+430.953 click 4
+433.234 click 2
+434.531 click 1
+434.938 enter
+435.266 select the 1
+435.266 start
+437.422 click 2
+440.782 click 3
+446.111 click 5
+450.345 click 4
+454.611 click 4
+456.893 click 2
+457.362 enter
+457.612 select fourth 1
+457.612 start
+458.971 click 1
+460.128 click 1
+462.425 click 2
+466.785 click 4
+469.082 click 2
+472.379 click 3
+475.723 click 3
+476.458 enter
+476.77 select edition 1
+476.77 start
+482.099 click 5
+483.349 click 1
+487.662 click 4
+487.974 enter
+488.24 select was 1
+488.24 start
+489.521 click 1
+490.881 click 1
+495.147 click 4
+499.335 click 4
+500.616 click 1
+504.913 click 4
+505.351 enter
+505.773 select better 1
+505.773 start
+507.398 phrase important news always seems to be late
+509.195 start
+511.149 click 2
+514.462 click 3
+518.712 click 4
+521.978 click 3
+526.103 click 4
+530.37 click 4
+531.401 click 1
+534.651 click 3
+538.683 click 4
+539.636 enter
+539.824 select important 1
+539.839 start
+543.105 click 3
+544.371 click 1
+549.653 click 5
+553.888 click 4
+554.528 enter
+554.779 select news 1
+554.779 start
+556.091 click 1
+559.404 click 3
+564.67 click 5
+565.983 click 1
+571.342 click 5
+575.562 click 4
+575.968 enter
+576.312 select always 1
+576.312 start
+580.609 click 4
+581.938 click 1
+583.281 click 1
+586.563 click 3
+590.86 click 4
+591.891 click 1
+592.111 enter
+598.439 select record 1
+598.439 start
+604.768 delete
+604.783 start
+609.081 click 4
+610.378 click 1
+611.675 click 1
+614.941 click 3
+619.301 click 4
+619.676 enter
+620.051 select seems 1
+620.051 start
+624.38 click 4
+627.63 click 3
+628.036 enter
+628.349 select to 1
+628.364 start
+629.599 click 1
+630.896 click 1
+631.443 enter
+631.74 select be 1
+631.755 start
+635.084 click 3
+636.162 click 1
+640.335 click 4
+641.678 click 1
+642.038 enter
+642.319 select late 1
+642.334 start
+643.491 phrase the kids are very excited
+645.866 start
+649.741 click 4
+652.07 click 2
+653.414 click 1
+653.742 enter
+653.992 select the 1
+654.008 start
+657.414 click 3
+659.743 click 2
+660.118 enter
+661.509 select oh 2
+661.524 start
+667.728 delete
+667.743 start
+671.072 click 3
+673.369 click 2
+674.713 click 1
+679.089 click 4
+680.042 enter
+680.401 select kids 1
+680.401 start
+681.683 click 1
+686.027 click 4
+687.339 click 1
+687.871 enter
+688.105 select are 1
+688.12 start
+693.481 click 5
+694.762 click 1
+699.106 click 4
+704.451 click 5
+704.888 enter
+705.201 select very 1
+705.216 start
+706.607 click 1
+711.967 click 5
+713.28 click 1
+715.546 click 2
+719.89 click 4
+721.171 click 1
+722.437 click 1
+722.812 enter
+723.125 select excited 1
+723.125 start
+723.781 phrase love means many things
+727.172 start
+730.469 click 3
+733.798 click 3
+739.079 click 5
+740.423 click 1
+741.517 click 1
+742.799 click 1
+749.331 delete
+755.628 delete
+756.066 enter
+756.456 select love 1
+756.456 start
+759.785 click 3
+761.113 click 1
+762.441 click 1
+765.754 click 3
+770.176 click 4
+770.677 enter
+771.083 select means 1
+771.083 start
+774.443 click 3
+775.724 click 1
+779.099 click 3
+784.428 click 5
+784.756 enter
+785.053 select many 1
+785.053 start
+789.475 click 4
+791.788 click 2
+794.101 click 2
+797.429 click 3
+799.758 click 2
+804.086 click 4
+804.368 enter
+804.665 select things 1
+804.665 start
+815.478 phrase information super highway
+815.993 start
+818.182 click 2
+821.463 click 3
+823.885 click 2
+827.245 click 3
+831.62 click 4
+835.089 click 3
+836.449 click 1
+840.84 click 4
+843.215 click 2
+846.575 click 3
+849.904 click 3
+850.232 enter
+850.529 select information 1
+850.544 start
+854.873 click 4
+860.045 click 5
+864.28 click 4
+865.812 click 1
+870.14 click 4
+870.468 enter
+871.812 select super 2
+871.812 start
+874.188 click 2
+876.547 click 2
+878.86 click 2
+881.173 click 2
+886.439 click 5
+887.689 click 1
+893.237 click 5
+893.549 enter
+893.846 select highway 1
+893.861 start
+895.659 phrase would you like to come to my house
+931.838 start
+936.198 click 5
+939.542 click 3
+944.855 click 5
+948.199 click 3
+949.45 click 1
+950.043 enter
+950.231 select would 1
+950.246 start
+955.45 click 5
+958.779 click 3
+964.123 click 5
+964.732 enter
+964.983 select you 1
+964.998 start
+968.249 click 3
+970.499 click 2
+980.828 click 3
+981.953 click 1
+982.609 enter
+982.812 select like 1
+982.812 start
+987.079 click 4
+990.47 click 3
+990.938 enter
+991.173 select to 1
+991.188 start
+992.595 click 1
+995.908 click 3
+999.158 click 3
+1000.299 click 1
+1000.627 enter
+1000.799 select come 1
+1000.799 start
+1005.08 click 4
+1005.315 enter
+1006.487 select p 2
+1006.487 start
+1012.769 delete
+1012.784 start
+1017.644 click 4
+1021.02 click 3
+1021.582 enter
+1021.942 select to 1
+1021.957 start
+1025.286 click 3
+1030.677 click 5
+1031.177 enter
+1031.458 select my 1
+1031.474 start
+1033.771 click 2
+1037.084 click 3
+1040.287 click 3
+1041.475 click 1
+1042.74 click 1
+1049.023 delete
+1049.46 enter
+1049.819 select good 1
+1049.819 start
+1056.164 delete
+1056.164 start
+1058.57 click 2
+1061.868 click 3
+1067.134 click 5
+1071.431 click 4
+1072.838 click 1
+1073.244 enter
+1073.556 select house 1
+1073.556 start
+1088.449 phrase the facts get in the way
+1089.824 start
+1093.856 click 4
+1096.2 click 2
+1097.371 click 1
+1097.809 enter
+1098.012 select the 1
+1098.028 start
+1100.341 click 2
+1101.497 click 1
+1102.81 click 1
+1107.185 click 4
+1111.42 click 4
+1111.67 enter
+1113.03 select facts 2
+1113.045 start
+1115.295 click 2
+1116.639 click 1
+1120.905 click 4
+1121.249 enter
+1123.609 select get 3
+1123.624 start
+1125.953 click 2
+1129.281 click 3
+1129.609 enter
+1130.203 select in 1
+1130.203 start
+1134.516 click 4
+1136.829 click 2
+1138.157 click 1
+1138.501 enter
+1138.782 select the 1
+1138.782 start
+1144.049 click 5
+1145.236 click 1
+1150.612 click 5
+1150.987 enter
+1151.299 select way 1
+1151.299 start

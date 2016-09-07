@@ -1,0 +1,425 @@
+0.0 session 1
+8.229 phrase bad for the environment
+8.239 start
+9.868 click 1
+11.162 click 1
+12.392 click 1
+12.782 enter
+13.132 select bad 1
+13.142 start
+15.384 click 2
+18.628 click 3
+22.782 click 4
+23.264 enter
+23.594 select for 1
+23.604 start
+27.839 click 4
+29.971 click 2
+31.263 click 1
+31.589 enter
+31.854 select the 1
+31.854 start
+33.065 click 1
+36.276 click 3
+41.442 click 5
+43.724 click 2
+48.048 click 4
+51.252 click 3
+54.535 click 3
+57.568 click 3
+58.912 click 1
+62.173 click 3
+66.326 click 4
+67.027 enter
+67.297 select environment 1
+67.307 start
+69.379 phrase the fourth edition was better
+70.099 start
+73.534 click 4
+75.796 click 2
+77.137 click 1
+77.536 enter
+77.818 select the 1
+77.818 start
+79.94 click 2
+83.084 click 3
+88.289 click 5
+92.602 click 4
+96.776 click 4
+98.868 click 2
+99.258 enter
+99.499 select fourth 1
+99.499 start
+100.7 click 1
+101.959 click 1
+104.064 click 2
+108.379 click 4
+110.643 click 2
+113.895 click 3
+117.078 click 3
+117.275 enter
+117.538 select edition 1
+117.538 start
+122.814 click 5
+124.156 click 1
+128.333 click 4
+128.703 enter
+129.054 select was 1
+129.054 start
+130.715 click 1
+132.027 click 1
+136.343 click 4
+140.587 click 4
+141.808 click 1
+146.102 click 4
+146.492 enter
+146.863 select better 1
+146.863 start
+147.524 phrase elections bring out the best
+148.094 start
+149.215 click 1
+152.548 click 3
+153.859 click 1
+155.131 click 1
+159.364 click 4
+161.656 click 2
+164.97 click 3
+168.042 click 3
+172.276 click 4
+172.547 enter
+172.797 select elections 1
+172.797 start
+174.059 click 1
+178.374 click 4
+180.744 click 2
+183.979 click 3
+186.231 click 2
+186.432 enter
+186.712 select bring 1
+186.712 start
+189.951 click 3
+195.03 click 5
+199.243 click 4
+199.495 enter
+199.757 select out 1
+199.759 start
+204.068 click 4
+206.28 click 2
+207.581 click 1
+207.821 enter
+208.031 select the 1
+208.031 start
+209.334 click 1
+210.604 click 1
+214.908 click 4
+219.242 click 4
+219.482 enter
+219.722 select best 1
+219.722 start
+220.704 phrase we better investigate this
+221.254 start
+226.038 click 5
+227.349 click 1
+227.639 enter
+227.889 select we 1
+227.889 start
+229.201 click 1
+230.462 click 1
+234.727 click 4
+239.031 click 4
+240.353 click 1
+244.648 click 4
+245.008 enter
+245.338 select better 1
+245.338 start
+247.712 click 2
+250.915 click 3
+251.575 enter
+253.236 select go 2
+253.246 start
+259.383 delete
+259.383 start
+261.666 click 2
+264.959 click 3
+270.205 click 5
+271.546 click 1
+275.782 click 4
+280.046 click 4
+282.278 click 2
+284.549 click 2
+286.01 click 1
+290.263 click 4
+291.547 click 1
+291.785 enter
+292.025 select investigate 1
+292.025 start
+296.2 click 4
+298.432 click 2
+300.596 click 2
+304.789 click 4
+305.03 enter
+305.3 select this 1
+305.3 start
+306.321 phrase take a coffee break
+306.832 start
+310.537 click 4
+311.879 click 1
+315.052 click 3
+316.393 click 1
+316.614 enter
+317.694 select take 2
+317.694 start
+319.686 click 1
+319.936 enter
+320.186 select a 1
+320.196 start
+321.598 click 1
+325.071 click 3
+327.383 click 2
+329.354 click 1
+335.611 delete
+337.883 click 2
+339.154 click 1
+340.465 click 1
+340.685 enter
+340.865 select coffee 1
+340.875 start
+342.127 click 1
+346.462 click 4
+347.724 click 1
+348.975 click 1
+352.279 click 3
+352.73 enter
+352.99 select break 1
+352.99 start
+353.77 phrase space is a high priority
+354.241 start
+358.275 click 4
+362.54 click 4
+363.752 click 1
+365.003 click 1
+366.284 click 1
+366.515 enter
+366.833 select space 1
+366.835 start
+369.129 click 2
+373.364 click 4
+373.584 enter
+373.814 select is 1
+373.814 start
+375.147 click 1
+375.341 enter
+375.838 select a 1
+375.841 start
+378.11 click 2
+380.221 click 2
+382.173 click 1
+388.479 delete
+390.782 click 2
+393.086 click 2
+393.461 enter
+393.736 select high 1
+393.746 start
+398.04 click 4
+402.174 click 4
+404.437 click 2
+407.762 click 3
+411.998 click 4
+414.071 click 2
+418.355 click 4
+423.54 click 5
+423.811 enter
+424.041 select priority 1
+424.041 start
+424.771 phrase win first prize in the contest
+425.321 start
+430.356 click 5
+432.628 click 2
+435.992 click 3
+436.262 enter
+437.633 select win 2
+437.643 start
+440.046 click 2
+442.317 click 2
+446.592 click 4
+450.826 click 4
+455.172 click 4
+455.513 enter
+455.763 select first 1
+455.763 start
+460.058 click 4
+464.353 click 4
+466.654 click 2
+471.919 click 5
+473.29 click 1
+473.73 enter
+474.021 select prize 1
+474.031 start
+476.312 click 2
+479.454 click 3
+479.775 enter
+480.026 select in 1
+480.026 start
+484.391 click 4
+486.674 click 2
+488.016 click 1
+488.306 enter
+488.536 select the 1
+488.536 start
+489.847 click 1
+493.082 click 3
+496.387 click 3
+500.752 click 4
+502.092 click 1
+506.435 click 4
+510.671 click 4
+510.987 enter
+512.303 select contest 2
+512.313 start
+513.274 phrase travel at the speed of light
+513.965 start
+517.592 click 4
+521.844 click 4
+523.145 click 1
+528.35 click 5
+529.651 click 1
+533.135 click 3
+533.856 enter
+534.196 select travel 1
+534.196 start
+535.417 click 1
+539.853 click 4
+540.924 click 1
+547.181 delete
+547.529 enter
+548.932 select at 2
+548.942 start
+553.357 click 4
+555.72 click 2
+557.092 click 1
+557.323 enter
+557.573 select the 1
+557.573 start
+561.906 click 4
+566.11 click 4
+567.411 click 1
+568.724 click 1
+569.993 click 1
+570.323 enter
+572.716 select speed 3
+572.716 start
+575.999 click 3
+578.312 click 2
+578.623 enter
+578.863 select of 1
+578.863 start
+582.146 click 3
+584.408 click 2
+586.641 click 2
+588.644 click 1
+594.881 delete
+597.184 click 2
+601.349 click 4
+601.87 enter
+604.188 select light 3
+604.191 start
+605.196 phrase what you see is what you get
+605.916 start
+610.471 click 5
+612.753 click 2
+614.096 click 1
+618.39 click 4
+618.671 enter
+618.881 select what 1
+618.881 start
+624.147 click 5
+627.44 click 3
+632.717 click 5
+633.107 enter
+633.368 select you 1
+633.368 start
+637.611 click 4
+638.902 click 1
+640.083 click 1
+640.554 enter
+640.905 select see 1
+640.905 start
+643.117 click 2
+647.472 click 4
+647.702 enter
+647.953 select is 1
+647.953 start
+653.231 click 5
+655.549 click 2
+656.875 click 1
+661.19 click 4
+661.571 enter
+661.811 select what 1
+661.821 start
+667.138 click 5
+670.431 click 3
+675.646 click 5
+675.927 enter
+676.177 select you 1
+676.177 start
+678.399 click 2
+679.72 click 1
+683.954 click 4
+684.164 enter
+686.467 select get 3
+686.467 start
+687.699 phrase the music is better than it sounds
+688.239 start
+691.813 click 4
+694.036 click 2
+695.357 click 1
+695.617 enter
+695.818 select the 1
+695.828 start
+698.98 click 3
+704.256 click 5
+708.611 click 4
+710.908 click 2
+712.184 click 1
+712.434 enter
+712.635 select music 1
+712.635 start
+714.966 click 2
+719.271 click 4
+719.518 enter
+719.722 select is 1
+719.732 start
+721.052 click 1
+722.374 click 1
+726.728 click 4
+730.931 click 4
+732.135 click 1
+736.38 click 4
+736.64 enter
+736.921 select better 1
+736.921 start
+741.196 click 4
+743.41 click 2
+744.751 click 1
+748.005 click 3
+748.276 enter
+748.586 select than 1
+748.586 start
+750.817 click 2
+755.103 click 4
+755.333 enter
+756.644 select it 2
+756.654 start
+760.979 click 4
+764.312 click 3
+769.527 click 5
+772.81 click 3
+774.131 click 1
+775.443 click 1
+779.669 click 4
+785.946 delete
+792.063 delete
+796.338 click 4
+796.588 enter
+796.878 select sounds 1
+796.878 start

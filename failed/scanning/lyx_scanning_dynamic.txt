@@ -1,0 +1,545 @@
+0.0 session 1
+14.236 phrase my car always breaks in the winter
+14.252 start
+25.815 delete
+25.815 start
+30.363 delete
+30.363 start
+31.675 click 1
+41.052 click 9
+41.88 enter
+43.224 select my 2
+43.224 start
+44.614 click 1
+46.052 click 1
+49.505 click 3
+49.881 enter
+53.147 select car 4
+53.162 start
+55.381 click 1
+57.757 click 2
+59.225 click 1
+65.601 click 6
+66.961 click 1
+69.711 click 2
+71.414 click 1
+74.352 delete
+74.367 delete
+74.43 delete
+74.492 delete
+74.571 delete
+74.649 delete
+74.742 delete
+74.805 delete
+74.805 start
+74.836 delete
+74.836 start
+76.243 click 1
+85.572 click 9
+86.041 enter
+87.103 select my 2
+87.103 start
+88.463 click 1
+89.791 click 1
+93.214 click 3
+93.604 enter
+96.855 select car 4
+96.87 start
+98.245 click 1
+100.636 click 2
+105.981 click 5
+107.387 click 1
+110.747 click 3
+112.559 click 1
+113.606 click 1
+115.935 delete
+116.419 enter
+117.013 select always 1
+117.013 start
+118.591 click 1
+122.982 click 4
+124.451 click 1
+125.905 click 1
+129.327 click 3
+131.78 click 2
+132.202 enter
+132.624 select breaks 1
+132.624 start
+142.016 click 1
+144.453 click 2
+145.032 enter
+145.485 select in 1
+145.5 start
+149.032 click 3
+150.86 click 1
+152.267 click 1
+152.845 enter
+153.298 select the 1
+153.298 start
+157.673 click 4
+159.658 click 1
+161.408 click 1
+166.643 click 5
+167.94 click 1
+170.581 click 2
+171.284 enter
+171.722 select winter 1
+171.737 start
+174.238 phrase my preferred treat is chocolate
+174.987 start
+181.363 delete
+181.363 start
+182.348 click 1
+191.74 click 9
+193.833 delete
+193.911 delete
+196.006 click 1
+205.257 click 9
+205.616 enter
+207.054 select my 2
+207.069 start
+209.445 click 2
+211.882 click 2
+213.273 click 1
+214.898 click 1
+216.273 click 1
+218.68 click 2
+220.399 click 1
+225.821 click 1
+227.275 click 1
+227.681 enter
+228.118 select preferred 1
+228.134 start
+231.478 click 3
+233.947 click 2
+235.338 click 1
+236.713 click 1
+240.12 click 3
+240.901 enter
+242.213 select treat 2
+242.213 start
+251.621 click 1
+256.043 click 4
+256.371 enter
+256.684 select is 1
+256.699 start
+258.043 click 1
+259.512 click 1
+261.981 click 2
+263.419 click 1
+265.216 click 1
+267.623 click 2
+269.013 click 1
+270.545 click 1
+272.982 delete
+275.42 click 2
+277.155 click 1
+277.53 enter
+277.889 select chocolate 1
+277.905 start
+279.046 phrase the price of gas is high
+279.764 start
+282.202 click 3
+283.687 click 1
+285.062 click 1
+291.344 enter
+291.641 select the 1
+291.641 start
+293.985 click 2
+296.391 click 2
+297.938 click 1
+299.563 click 1
+300.813 click 1
+301.142 enter
+303.486 select price 3
+303.486 start
+305.017 click 1
+306.283 click 1
+306.642 enter
+306.971 select of 1
+306.986 start
+310.565 delete
+310.58 start
+310.595 delete
+310.595 start
+310.595 delete
+310.595 start
+313.721 click 3
+315.315 click 1
+316.69 click 1
+317.002 enter
+317.284 select the 1
+317.284 start
+319.597 click 2
+321.988 click 2
+326.644 enter
+330.738 delete
+330.816 delete
+330.879 delete
+330.879 start
+333.832 click 3
+335.286 click 1
+345.725 click 1
+346.553 enter
+346.912 select the 1
+346.912 start
+349.319 click 2
+351.819 click 2
+357.21 click 1
+358.617 click 1
+359.976 click 1
+360.351 enter
+362.68 select price 3
+362.68 start
+364.101 click 1
+365.57 click 1
+365.992 enter
+366.351 select of 1
+366.351 start
+367.711 click 1
+369.071 click 1
+373.399 click 4
+373.712 enter
+376.04 select gas 3
+376.056 start
+377.447 click 1
+381.728 click 4
+382.572 enter
+383.229 select is 1
+383.229 start
+384.838 click 1
+386.26 click 1
+387.667 click 1
+390.042 click 2
+390.401 enter
+392.683 select high 3
+392.698 start
+394.792 phrase soon we will return from the city
+399.167 start
+401.309 click 2
+408.762 click 1
+410.638 click 1
+414.076 click 3
+414.419 enter
+418.732 nextPage
+421.061 select soon 5
+421.061 start
+425.452 click 4
+426.905 click 1
+427.296 enter
+427.671 select we 1
+427.671 start
+432.015 click 4
+433.468 click 1
+434.843 click 1
+437.25 click 2
+437.578 enter
+438.922 select will 2
+438.937 start
+441.422 click 2
+442.75 click 1
+447.141 click 4
+450.501 click 3
+452.877 click 2
+455.252 click 2
+455.58 enter
+455.877 select return 1
+455.877 start
+457.268 click 1
+461.471 click 4
+468.894 click 1
+470.378 click 1
+470.738 enter
+471.082 select from 1
+471.097 start
+474.441 click 3
+475.879 click 1
+477.238 click 1
+477.582 enter
+477.91 select the 1
+477.91 start
+487.286 click 1
+488.677 click 1
+494.193 click 5
+499.6 click 5
+500.21 enter
+500.71 select city 1
+500.71 start
+502.444 phrase good jobs for those with education
+503.038 start
+512.039 click 1
+514.696 click 2
+516.321 click 1
+517.758 click 1
+518.07 enter
+518.399 select good 1
+518.399 start
+519.79 click 1
+522.228 click 2
+523.65 click 1
+528.072 click 4
+528.416 enter
+531.775 select jobs 4
+531.775 start
+533.588 click 1
+535.995 click 2
+539.417 click 3
+539.729 enter
+540.026 select for 1
+540.026 start
+541.495 click 1
+551.996 delete
+555.387 click 3
+556.747 click 1
+559.2 click 2
+561.56 click 2
+563.138 click 1
+563.966 enter
+564.341 select those 1
+564.357 start
+568.701 click 4
+576.093 click 1
+579.749 click 3
+581.437 click 1
+581.765 enter
+582.078 select with 1
+582.078 start
+583.499 click 1
+584.812 click 1
+590.203 click 5
+591.36 click 1
+592.688 click 1
+596.157 click 3
+598.517 click 2
+599.798 click 1
+601.048 click 1
+601.408 enter
+601.829 select education 1
+601.829 start
+603.799 phrase time to go shopping
+604.471 start
+607.19 click 3
+608.627 click 1
+611.362 click 2
+612.768 click 1
+613.753 enter
+614.018 select time 1
+614.034 start
+617.394 click 3
+619.769 click 2
+620.082 enter
+620.488 select to 1
+620.488 start
+621.847 click 1
+624.238 click 2
+624.629 enter
+628.926 nextPage
+632.255 select go 6
+632.255 start
+634.693 click 2
+636.427 click 1
+646.803 click 1
+651.179 click 4
+654.57 click 3
+657.007 click 2
+658.726 click 1
+660.055 click 1
+661.164 click 1
+663.477 delete
+663.852 enter
+664.117 select shopping 1
+664.117 start
+666.665 phrase a dog is the best friend of a man
+667.258 start
+668.555 click 1
+668.868 enter
+669.196 select a 1
+669.196 start
+670.509 click 1
+672.993 click 2
+675.103 click 2
+679.494 delete
+681.244 click 1
+681.588 enter
+685.885 nextPage
+692.199 nextPage
+698.434 nextPage
+700.808 select dog 13
+700.808 start
+702.481 click 1
+706.856 click 4
+707.169 enter
+707.466 select is 1
+707.466 start
+710.826 click 3
+712.201 click 1
+713.545 click 1
+713.904 enter
+714.232 select the 1
+714.232 start
+715.607 click 1
+716.967 click 1
+721.358 click 4
+724.686 click 3
+725.015 enter
+726.217 select best 2
+726.217 start
+727.718 click 1
+729.515 click 1
+740.969 delete
+745.298 click 4
+746.845 click 1
+748.267 click 1
+752.658 click 4
+754.096 click 1
+754.502 enter
+754.846 select friend 1
+754.846 start
+756.299 click 1
+757.674 click 1
+758.424 enter
+758.768 select of 1
+758.783 start
+760.112 click 1
+760.393 enter
+760.768 select a 1
+760.784 start
+762.315 click 1
+763.612 click 1
+766.066 click 2
+766.378 enter
+768.675 select man 3
+768.691 start
+770.051 phrase we missed your birthday
+770.785 start
+775.066 click 4
+776.457 click 1
+776.754 enter
+777.161 select we 1
+777.161 start
+778.755 click 1
+780.192 click 1
+784.677 click 4
+787.084 click 2
+788.646 click 1
+792.037 delete
+793.381 click 1
+794.788 click 1
+795.147 enter
+795.397 select missed 1
+795.397 start
+800.866 click 5
+803.226 click 2
+805.648 click 2
+806.976 click 1
+807.257 enter
+807.508 select your 1
+807.523 start
+808.867 click 1
+810.242 click 1
+813.836 click 3
+818.196 click 4
+819.587 click 1
+820.977 click 1
+822.212 click 1
+824.588 click 2
+824.947 enter
+825.197 select birthday 1
+825.197 start
+826.166 phrase healthy food is good for you
+826.791 start
+835.995 click 1
+837.433 click 1
+838.745 click 1
+842.168 click 3
+845.402 click 3
+846.793 click 1
+849.153 click 2
+849.496 enter
+849.84 select healthy 1
+849.84 start
+851.981 click 2
+857.404 delete
+858.747 click 1
+872.155 click 2
+873.436 click 1
+874.827 click 1
+875.124 enter
+879.437 nextPage
+882.766 select food 6
+882.781 start
+884.797 click 1
+888.188 click 4
+888.454 enter
+888.704 select is 1
+888.704 start
+889.923 click 1
+892.235 click 2
+893.626 click 1
+894.954 click 1
+895.282 enter
+895.533 select good 1
+895.548 start
+896.939 click 1
+899.502 click 2
+902.908 click 3
+903.533 enter
+903.814 select for 1
+903.83 start
+909.19 click 5
+911.612 click 2
+914.003 click 2
+914.3 enter
+914.644 select you 1
+914.644 start
+915.535 phrase the music is better than it sounds
+916.488 start
+919.285 click 3
+920.645 click 1
+921.957 click 1
+922.223 enter
+922.52 select the 1
+922.52 start
+923.942 click 1
+930.208 click 6
+932.645 click 2
+934.037 click 1
+935.443 click 1
+935.99 enter
+936.302 select music 1
+936.318 start
+938.037 click 1
+942.444 click 4
+942.741 enter
+943.022 select is 1
+943.022 start
+944.381 click 1
+945.772 click 1
+951.163 click 5
+953.601 click 2
+955.07 click 1
+959.492 click 4
+959.899 enter
+960.211 select better 1
+960.226 start
+963.602 click 3
+965.087 click 1
+966.54 click 1
+967.915 click 1
+968.228 enter
+968.493 select than 1
+968.509 start
+977.901 click 1
+983.245 click 5
+983.573 enter
+983.854 select it 1
+983.854 start
+986.214 click 2
+987.652 click 1
+992.074 click 4
+993.418 click 1
+994.59 click 1
+996.918 click 2
+997.246 enter
+997.762 select sounds 1
+997.777 start

@@ -1,7 +1,6 @@
 0.0 session 1
 0.0 phrase medieval times were very hard
-0.07 start 4.0 1.0
-0.07 move 864 847
+2.493 start 4.0 1.0
 2.493 move 877 847
 2.515 move 893 847
 2.531 move 910 847
