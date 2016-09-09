@@ -1,0 +1,241 @@
+user, scene, technique, session, index, phrase, rate, error, undo
+flh, scanning, 5keys, 1, 1, good jobs for those with education, 1.7927609549, 0.0, Yes
+flh, scanning, 5keys, 1, 2, the music is better than it sounds, 2.26858416042, 0.0, No
+flh, scanning, 5keys, 1, 3, time to go shopping, 1.56239828136, 0.0, No
+flh, scanning, 5keys, 1, 4, soon we will return from the city, 2.02477221313, 0.0, Yes
+flh, scanning, 5keys, 1, 5, a dog is the best friend of a man, 2.25964869995, 0.0, No
+flh, scanning, 5keys, 1, 6, my car always breaks in the winter, 1.7720210533, 0.0, No
+flh, scanning, 5keys, 1, 7, the price of gas is high, 2.67370272647, 0.0, No
+flh, scanning, 5keys, 1, 8, we missed your birthday, 2.23264121456, 0.0, No
+flh, scanning, 5keys, 1, 9, my preferred treat is chocolate, 2.90510006456, 0.0, No
+flh, scanning, 5keys, 1, 10, healthy food is good for you, 2.24109651331, 0.0, No
+flh, scanning, dynamic, 1, 1, the music is better than it sounds, 2.7104205992, 0.0, No
+flh, scanning, dynamic, 1, 2, good jobs for those with education, 2.01974474605, 0.0, No
+flh, scanning, dynamic, 1, 3, we missed your birthday, 1.24611238895, 0.0, No
+flh, scanning, dynamic, 1, 4, my car always breaks in the winter, 1.88579702987, 0.0, Yes
+flh, scanning, dynamic, 1, 5, healthy food is good for you, 2.60350341002, 0.0, No
+flh, scanning, dynamic, 1, 6, my preferred treat is chocolate, 1.22315846697, 0.0, No
+flh, scanning, dynamic, 1, 7, the music is better than it sound, 3.83890804393, 0.030303030303, No
+flh, scanning, dynamic, 1, 8, healthy food is good for you, 2.98143087077, 0.0, No
+flh, scanning, dynamic, 1, 9, a dog is the best friend of a man, 2.84244336432, 0.0, No
+flh, scanning, dynamic, 1, 10, the price of gas is high, 3.27134986226, 0.0, No
+gyz, scanning, 5keys, 1, 1, the capital of our nation, 3.80837237419, 0.0, No
+gyz, scanning, 5keys, 1, 2, that land is owned by the government, 3.7811551429, 0.0, No
+gyz, scanning, 5keys, 1, 3, do not worry about this, 3.21865691658, 0.0, No
+gyz, scanning, 5keys, 1, 4, presidents drive expensive cars, 3.74778311936, 0.0, No
+gyz, scanning, 5keys, 1, 5, the back yard of our house, 3.65805861603, 0.0, No
+gyz, scanning, 5keys, 1, 6, electric cars need big fuel cells, 4.34602649007, 0.0, No
+gyz, scanning, 5keys, 1, 7, the sum of the parts, 3.27103599843, 0.0, No
+gyz, scanning, 5keys, 1, 8, the living is easy, 3.89012556461, 0.0, No
+gyz, scanning, 5keys, 1, 9, teaching services will help, 4.07937789487, 0.0, No
+gyz, scanning, 5keys, 1, 10, do not drink too much, 2.96313511315, 0.0, No
+gyz, scanning, dynamic, 1, 1, this equation is too complicated, 5.82605076987, 0.0, No
+gyz, scanning, dynamic, 1, 2, the objective of the exercise, 5.9731209557, 0.0, Yes
+gyz, scanning, dynamic, 1, 3, hands on experience with a job, 4.09483641129, 0.0, Yes
+gyz, scanning, dynamic, 1, 4, destruction of the rain forest, 3.80195703301, 0.0, No
+gyz, scanning, dynamic, 1, 5, coalition governments never work, 5.02425502426, 0.0, No
+gyz, scanning, dynamic, 1, 6, you should visit a doctor, 4.56182907623, 0.0, No
+gyz, scanning, dynamic, 1, 7, rent is paid at the beginning of the month, 3.79203301299, 0.0, No
+gyz, scanning, dynamic, 1, 8, the punishment should fit the crime, 4.71475719, 0.0, No
+gyz, scanning, dynamic, 1, 9, just in time for the party, 4.82370506489, 0.0, No
+gyz, scanning, dynamic, 1, 10, the library is closed today, 5.08643249419, 0.0, No
+hx, scanning, 5keys, 1, 1, we have enough, 3.75048834484, 0.714285714286, No
+hx, scanning, 5keys, 1, 2, nothing wrong with his style, 3.37236533958, 0.0, No
+hx, scanning, 5keys, 1, 3, a quarter of a century, 2.60901075009, 0.0, No
+hx, scanning, 5keys, 1, 4, is there any indication of this, 3.94113560285, 0.0, No
+hx, scanning, 5keys, 1, 5, presidents drive expensive cars, 3.41023272808, 0.0, No
+hx, scanning, 5keys, 1, 6, completely sold out of that, 3.39458342558, 0.0, Yes
+hx, scanning, 5keys, 1, 7, my preferred treat is chocolate, 3.90173410405, 0.0, No
+hx, scanning, 5keys, 1, 8, a dog is the best friend of a man, 3.77914666868, 0.0, No
+hx, scanning, 5keys, 1, 9, come and see our new car, 3.81647444803, 0.0, No
+hx, scanning, 5keys, 1, 10, an occasional taste of chocolate, 4.33062239808, 0.0, No
+hx, scanning, dynamic, 1, 1, is there any indication of this, 4.65622994613, 0.0, No
+hx, scanning, dynamic, 1, 2, completely sold out of that, 3.62071679698, 0.0, No
+hx, scanning, dynamic, 1, 3, an occasional taste of chocolate, 4.55543805418, 0.0, No
+hx, scanning, dynamic, 1, 4, my preferred treat is chocolate, 4.31769722814, 0.0, No
+hx, scanning, dynamic, 1, 5, nothing wrong with his style, 4.66585662211, 0.0, No
+hx, scanning, dynamic, 1, 6, a quarter of a century, 4.72244692713, 0.0, Yes
+hx, scanning, dynamic, 1, 7, come and see our new car, 4.23154729868, 0.0, No
+hx, scanning, dynamic, 1, 8, presidents drive expensive cars, 4.9657863234, 0.0, Yes
+hx, scanning, dynamic, 1, 9, a dog is the best friend of a man, 3.62021528214, 0.0, Yes
+hx, scanning, dynamic, 1, 10, we have enough witnesses, 4.35729847495, 0.0, Yes
+lf, scanning, 5keys, 1, 1, the music is better than it sounds, 3.50416119141, 0.0, No
+lf, scanning, 5keys, 1, 2, soon we will return from the city, 3.24675324675, 0.0, No
+lf, scanning, 5keys, 1, 3, the price of gas is high, 3.68258685575, 0.0, No
+lf, scanning, 5keys, 1, 4, a dog is the best friend of a man, 4.23890466703, 0.0, No
+lf, scanning, 5keys, 1, 5, we missed your birthday, 3.22945260778, 0.0, No
+lf, scanning, 5keys, 1, 6, good jobs for those with education, 2.81323513957, 0.0, No
+lf, scanning, 5keys, 1, 7, my preferred treat is chocolate, 3.92384827787, 0.0, No
+lf, scanning, 5keys, 1, 8, healthy food is good for you, 3.21828358209, 0.0, No
+lf, scanning, 5keys, 1, 9, time to go shopping, 3.45131311679, 0.0, No
+lf, scanning, 5keys, 1, 10, my car always breaks in the winter, 3.32071593054, 0.0, No
+lf, scanning, dynamic, 1, 1, soon we will return from the city, 3.21301071004, 0.0, No
+lf, scanning, dynamic, 1, 2, a dog is the best friend of a man, 2.46443005947, 0.0, No
+lf, scanning, dynamic, 1, 3, the music is better than it sounds, 4.40968029818, 0.0, No
+lf, scanning, dynamic, 1, 4, my preferred treat is chocolate, 4.81626828398, 0.0, Yes
+lf, scanning, dynamic, 1, 5, the price of gas is high, 4.55945286566, 0.0, No
+lf, scanning, dynamic, 1, 6, healthy food is good for you, 3.96546026638, 0.0, No
+lf, scanning, dynamic, 1, 7, good jobs for those with education, 4.72011610401, 0.0, No
+lf, scanning, dynamic, 1, 8, time to go shopping, 4.09967330728, 0.0, No
+lf, scanning, dynamic, 1, 9, my car always breaks in the winter, 3.99880987801, 0.0, No
+lf, scanning, dynamic, 1, 10, we missed your birthday, 3.85697067095, 0.0, No
+lyx, scanning, 5keys, 1, 1, good jobs for those with education, 2.63420837497, 0.0, No
+lyx, scanning, 5keys, 1, 2, my preferred treat is chocolate, 3.13107007219, 0.0, No
+lyx, scanning, 5keys, 1, 3, a dog is the best friend of a man, 3.13791119711, 0.0, No
+lyx, scanning, 5keys, 1, 4, we missed you birthday, 2.49578562515, 0.0454545454545, No
+lyx, scanning, 5keys, 1, 5, time to go shopping, 3.11683251895, 0.0, No
+lyx, scanning, 5keys, 1, 6, the music is better than it sounds, 3.00975483039, 0.0, No
+lyx, scanning, 5keys, 1, 7, my car always breaks in the winter, 3.58897671438, 0.0, No
+lyx, scanning, 5keys, 1, 8, healthy food is good for you, 3.2575212152, 0.0, No
+lyx, scanning, 5keys, 1, 9, the price of gas is high, 2.57356676035, 0.0, No
+lyx, scanning, 5keys, 1, 10, soon we will return from the city, 2.53251625813, 0.0, No
+lyx, scanning, dynamic, 1, 1, my car always breaks in the winter, 3.46799331173, 0.0, Yes
+lyx, scanning, dynamic, 1, 2, my preferred treat is chocolate, 3.35660858214, 0.0, No
+lyx, scanning, dynamic, 1, 3, the price of gas is high, 3.68908161284, 0.0, Yes
+lyx, scanning, dynamic, 1, 4, soon we will return from the city, 3.19076647332, 0.0, No
+lyx, scanning, dynamic, 1, 5, good jobs for those with education, 3.52258809001, 0.0, No
+lyx, scanning, dynamic, 1, 6, time to go shopping, 3.21899205311, 0.0, No
+lyx, scanning, dynamic, 1, 7, a dog is the best friend of a man, 2.95808395042, 0.0, No
+lyx, scanning, dynamic, 1, 8, we missed your birthday, 4.41079173712, 0.0, No
+lyx, scanning, dynamic, 1, 9, healthy food is good for you, 3.14161155567, 0.0, No
+lyx, scanning, dynamic, 1, 10, the music is better than it sounds, 4.1341634471, 0.0, No
+pxy, scanning, 5keys, 1, 1, this equation is too complicated, 3.21199143469, 0.0, No
+pxy, scanning, 5keys, 1, 2, in sharp contrast to your words, 2.82373384498, 0.0, No
+pxy, scanning, 5keys, 1, 3, for your information only, 2.93258389523, 0.0, No
+pxy, scanning, 5keys, 1, 4, that is a very odd question, 2.84390821933, 0.0, No
+pxy, scanning, 5keys, 1, 5, staying up all night is a bad idea, 2.5213419142, 0.0, No
+pxy, scanning, 5keys, 1, 6, he is still on our team, 3.29188002926, 0.0, No
+pxy, scanning, 5keys, 1, 7, a picture is worth many words, 2.97772906801, 0.0, No
+pxy, scanning, 5keys, 1, 8, fall is my favorite season, 3.57966101695, 0.0, No
+pxy, scanning, 5keys, 1, 9, rapidly running short on words, 2.72051899132, 0.0, No
+pxy, scanning, 5keys, 1, 10, tickets are very expensive, 3.18879761533, 0.0, No
+pxy, scanning, dynamic, 1, 1, sad to hear that news, 2.5568715924, 0.0, Yes
+pxy, scanning, dynamic, 1, 2, this is a non profit organization, 2.12102465691, 0.0, No
+pxy, scanning, dynamic, 1, 3, tell a lie and your nose will grow, 2.38566831847, 0.0, No
+pxy, scanning, dynamic, 1, 4, fall is my favorite season, 3.48864867722, 0.0, No
+pxy, scanning, dynamic, 1, 5, question that must be answered, 2.91156132476, 0.0, No
+pxy, scanning, dynamic, 1, 6, insurance is important for bad drivers, 3.33319304743, 0.0, No
+pxy, scanning, dynamic, 1, 7, we missed your birthday, 2.28440890919, 0.0, No
+pxy, scanning, dynamic, 1, 8, world population is growing, 3.91911384481, 0.0, No
+pxy, scanning, dynamic, 1, 9, players must know all the rules, 3.37567351178, 0.0, No
+pxy, scanning, dynamic, 1, 10, the price of gas is high, 2.63556392976, 0.0, No
+wq, scanning, 5keys, 1, 1, you will loose your voice, 3.11557291924, 0.0, No
+wq, scanning, 5keys, 1, 2, interesting observation was made, 3.28847898397, 0.0, No
+wq, scanning, 5keys, 1, 3, where can my little dog be, 4.05895143755, 0.0, No
+wq, scanning, 5keys, 1, 4, this library has many books, 2.4599149725, 0.0, No
+wq, scanning, 5keys, 1, 5, this camera takes nice photographs, 3.86664375322, 0.0, No
+wq, scanning, 5keys, 1, 6, a dog is the best friend of a man, 4.17257781858, 0.0, No
+wq, scanning, 5keys, 1, 7, my favorite place to visit, 3.04895654082, 0.0, No
+wq, scanning, 5keys, 1, 8, this is too much to handle, 3.57883375465, 0.0, No
+wq, scanning, 5keys, 1, 9, are you sure you want this, 2.61026289076, 0.0, No
+wq, scanning, 5keys, 1, 10, information super highway, 3.18695657194, 0.0, No
+wq, scanning, dynamic, 1, 1, interesting observation was made, 5.46894644204, 0.0, No
+wq, scanning, dynamic, 1, 2, information super highway, 3.89891084773, 0.0, No
+wq, scanning, dynamic, 1, 3, this library has many looks, 3.86305741399, 0.037037037037, No
+wq, scanning, dynamic, 1, 4, this camera takes nice photographs, 4.14789551912, 0.0, No
+wq, scanning, dynamic, 1, 5, are you sure you want this, 3.5148404374, 0.0, No
+wq, scanning, dynamic, 1, 6, you will loose your voice, 3.81142520078, 0.0, No
+wq, scanning, dynamic, 1, 7, where can my little dog be, 1.96613872201, 0.0, No
+wq, scanning, dynamic, 1, 8, a dog is the best friend of a man, 2.6158836455, 0.0, No
+wq, scanning, dynamic, 1, 9, this is too much to handle, 3.71917292678, 0.0, No
+wq, scanning, dynamic, 1, 10, my favorite place to visit, 3.64807163486, 0.0, No
+ymk, scanning, 5keys, 1, 1, the facts get in the way, 2.45250951961, 0.0, No
+ymk, scanning, 5keys, 1, 2, quit while you are ahead, 3.14539592671, 0.0, No
+ymk, scanning, 5keys, 1, 3, want to join us for lunch, 2.45250820057, 0.0, No
+ymk, scanning, 5keys, 1, 4, we have enough witnesses, 3.34381593089, 0.0, No
+ymk, scanning, 5keys, 1, 5, what to do when the oil runs dry, 2.7769035674, 0.0, No
+ymk, scanning, 5keys, 1, 6, do you prefer a window seat, 3.54581352244, 0.0, No
+ymk, scanning, 5keys, 1, 7, well collected with people, 2.76899924755, 0.0769230769231, No
+ymk, scanning, 5keys, 1, 8, not quite so smart as you think, 2.59123299503, 0.0, No
+ymk, scanning, 5keys, 1, 9, the back yard of our house, 3.71101228168, 0.0, No
+ymk, scanning, 5keys, 1, 10, this camera takes mice photographs, 3.8147312204, 0.0294117647059, No
+ymk, scanning, dynamic, 1, 1, what to join us for lunch, 3.74777475874, 0.08, No
+ymk, scanning, dynamic, 1, 2, well connected with people, 2.46911371342, 0.0, No
+ymk, scanning, dynamic, 1, 3, quit while you are ahead, 3.09773349166, 0.0, No
+ymk, scanning, dynamic, 1, 4, do you prefer a window seat, 3.96432111001, 0.0, No
+ymk, scanning, dynamic, 1, 5, this camera takes nice photographs, 2.91297487559, 0.0, No
+ymk, scanning, dynamic, 1, 6, what to do when the oil runs dry, 3.19584114539, 0.0, No
+ymk, scanning, dynamic, 1, 7, the back yard of our house, 4.89158918415, 0.0, No
+ymk, scanning, dynamic, 1, 8, well collected with people, 5.08690122933, 0.0769230769231, No
+ymk, scanning, dynamic, 1, 9, we have enough witnesses, 2.62697022767, 0.0, No
+ymk, scanning, dynamic, 1, 10, quit while you are ahead, 4.24253137705, 0.0, No
+yxr, scanning, 5keys, 1, 1, an occasional taste of chocolate, 4.3254376931, 0.0, Yes
+yxr, scanning, 5keys, 1, 2, a quarter of a century, 3.44871631115, 0.0, No
+yxr, scanning, 5keys, 1, 3, my preferred treat is chocolate, 3.22857085916, 0.0, No
+yxr, scanning, 5keys, 1, 4, come and see our new car, 3.10301182683, 0.0, No
+yxr, scanning, 5keys, 1, 5, completely sold out of that, 2.2629257334, 0.0, No
+yxr, scanning, 5keys, 1, 6, we have enough witnesses, 3.35057371927, 0.0, No
+yxr, scanning, 5keys, 1, 7, is there any indication of this, 3.19914689416, 0.0, No
+yxr, scanning, 5keys, 1, 8, presidents drive expensive, 3.74668262476, 0.192307692308, No
+yxr, scanning, 5keys, 1, 9, a dog is the best friend of a man, 2.43658780244, 0.0, No
+yxr, scanning, 5keys, 1, 10, nothing wrong with his style, 2.8684687556, 0.0, No
+yxr, scanning, dynamic, 1, 1, nothing wrong with his style, 3.15692550533, 0.0, Yes
+yxr, scanning, dynamic, 1, 2, an occasional tests of chocolate, 4.02048533001, 0.0625, Yes
+yxr, scanning, dynamic, 1, 3, we have enough witnesses, 3.88397398354, 0.0, No
+yxr, scanning, dynamic, 1, 4, come and see our new car, 2.89722476365, 0.0, No
+yxr, scanning, dynamic, 1, 5, a quarter of a century, 2.30490967102, 0.0, Yes
+yxr, scanning, dynamic, 1, 6, is there any indication of this, 1.94789383979, 0.0, No
+yxr, scanning, dynamic, 1, 7, presidents drive expensive cars, 4.31932124952, 0.0, No
+yxr, scanning, dynamic, 1, 8, completely sold out of that, 2.70973442639, 0.0, No
+yxr, scanning, dynamic, 1, 9, my preferred treat is chocolate, 4.1219800771, 0.0, No
+yxr, scanning, dynamic, 1, 10, a dog is the best friend of a man, 2.25169440004, 0.0, Yes
+yzc, scanning, 5keys, 1, 1, we missed your birthday, 3.24631408089, 0.0, No
+yzc, scanning, 5keys, 1, 2, life is but a dream, 4.26136363636, 0.0, No
+yzc, scanning, 5keys, 1, 3, they watched the entire movie, 4.11793773678, 0.0, No
+yzc, scanning, 5keys, 1, 4, sit at the front of the bus, 3.42168151206, 0.0, Yes
+yzc, scanning, 5keys, 1, 5, insurance is important for bad drivers, 3.86300006829, 0.0, No
+yzc, scanning, 5keys, 1, 6, space is a high priority, 3.32649553695, 0.0, No
+yzc, scanning, 5keys, 1, 7, this person is a disaster, 3.74331550802, 0.0, No
+yzc, scanning, 5keys, 1, 8, is there any indication of this, 4.11919253264, 0.0, No
+yzc, scanning, 5keys, 1, 9, you are a wonderful example, 3.79992565363, 0.0, No
+yzc, scanning, 5keys, 1, 10, a picture is worth many words, 3.39158698007, 0.0, No
+yzc, scanning, dynamic, 1, 1, an occasional taste of chocolate, 6.07572963003, 0.0, Yes
+yzc, scanning, dynamic, 1, 2, yes you are very smart, 3.67816091954, 0.0, No
+yzc, scanning, dynamic, 1, 3, an airport is a very busy place, 4.3015686387, 0.0, No
+yzc, scanning, dynamic, 1, 4, want to join us for lunch, 3.45671899755, 0.0, Yes
+yzc, scanning, dynamic, 1, 5, time to go shopping, 4.25871706149, 0.0, No
+yzc, scanning, dynamic, 1, 6, stability of the nation, 5.23994585389, 0.0, No
+yzc, scanning, dynamic, 1, 7, interactions between men and women, 4.19472862436, 0.0, Yes
+yzc, scanning, dynamic, 1, 8, the second largest country, 5.35537574946, 0.0, No
+yzc, scanning, dynamic, 1, 9, the food at this restaurant, 4.84559068804, 0.0, No
+yzc, scanning, dynamic, 1, 10, the kids are very excited, 4.24821726597, 0.0, No
+zmy, scanning, 5keys, 1, 1, staying up all night is a bad idea, 3.51776252931, 0.0, Yes
+zmy, scanning, 5keys, 1, 2, what you see is what you get, 3.18817476994, 0.0, No
+zmy, scanning, 5keys, 1, 3, the winner of the race, 3.93471291169, 0.0, Yes
+zmy, scanning, 5keys, 1, 4, the fourth edition was better, 3.81592001832, 0.0, Yes
+zmy, scanning, 5keys, 1, 5, important news always seems to be late, 2.88452871007, 0.0, No
+zmy, scanning, 5keys, 1, 6, the kids are very excited, 3.26175591193, 0.0, No
+zmy, scanning, 5keys, 1, 7, love means many things, 2.94220123108, 0.0, No
+zmy, scanning, 5keys, 1, 8, information super highway, 3.54514276906, 0.0, No
+zmy, scanning, 5keys, 1, 9, would you like to come to my house, 2.28623040122, 0.0, No
+zmy, scanning, 5keys, 1, 10, the facts get in the way, 3.7088247255, 0.0, No
+zmy, scanning, dynamic, 1, 1, what you see is what you get, 3.67186848035, 0.0, No
+zmy, scanning, dynamic, 1, 2, the winner of the race, 3.92905866303, 0.0, No
+zmy, scanning, dynamic, 1, 3, the facts get in the way, 3.67510759361, 0.0, No
+zmy, scanning, dynamic, 1, 4, staying up all night is a bad idea, 3.49051420445, 0.0, No
+zmy, scanning, dynamic, 1, 5, the fourth edition was better, 4.40722785368, 0.0, No
+zmy, scanning, dynamic, 1, 6, would you like to come to my house, 3.93351867814, 0.0, Yes
+zmy, scanning, dynamic, 1, 7, the kids are very excited, 4.06196102452, 0.0, No
+zmy, scanning, dynamic, 1, 8, important news always seems to be late, 4.60774196645, 0.0, Yes
+zmy, scanning, dynamic, 1, 9, information super highway, 5.64821446843, 0.0, No
+zmy, scanning, dynamic, 1, 10, love means many things, 3.96266750091, 0.0, No
+zpj, scanning, 5keys, 1, 1, bad for the environment, 4.06380168648, 0.0, No
+zpj, scanning, 5keys, 1, 2, the fourth edition was better, 3.9080819134, 0.0, No
+zpj, scanning, 5keys, 1, 3, elections bring out the best, 4.02077399899, 0.0, No
+zpj, scanning, 5keys, 1, 4, we better investigate this, 3.28391595079, 0.0, No
+zpj, scanning, 5keys, 1, 5, take a coffee break, 4.15962563369, 0.0, No
+zpj, scanning, 5keys, 1, 6, space is a high priority, 3.43839541547, 0.0, No
+zpj, scanning, 5keys, 1, 7, win first prize in the contest, 3.44898944609, 0.0, No
+zpj, scanning, 5keys, 1, 8, travel at the speed of light, 3.05908692905, 0.0, No
+zpj, scanning, 5keys, 1, 9, what you see is what you get, 3.27742672344, 0.0, No
+zpj, scanning, 5keys, 1, 10, the music is better than it sounds, 3.0928119736, 0.0, No
+zpj, scanning, dynamic, 1, 1, what you see is what you get, 3.78261430229, 0.0, No
+zpj, scanning, dynamic, 1, 2, we better investigate this, 4.97602134641, 0.0, No
+zpj, scanning, dynamic, 1, 3, win first prize in the contest, 3.02187839961, 0.0, No
+zpj, scanning, dynamic, 1, 4, space is a high priority, 5.34664052754, 0.0, No
+zpj, scanning, dynamic, 1, 5, the music is better than it sounds, 4.61741424802, 0.0, No
+zpj, scanning, dynamic, 1, 6, elections bring out the best, 3.9046082512, 0.0, No
+zpj, scanning, dynamic, 1, 7, travel at the speed of light, 3.97551314368, 0.0, No
+zpj, scanning, dynamic, 1, 8, bad for the environment, 5.19244499254, 0.0, No
+zpj, scanning, dynamic, 1, 9, take a coffee break, 4.55970361926, 0.0, No
+zpj, scanning, dynamic, 1, 10, the fourth edition was better, 3.40769685129, 0.0, No
