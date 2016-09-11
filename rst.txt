@@ -1,0 +1,101 @@
+user, scene, technique, session, index, phrase, rate, error, undo
+cc-ball, gamepad, 5keys, 1, 1, this equation is too complicated, 2.73945797867, 0.0, No
+cc-ball, gamepad, 5keys, 1, 2, traveling requires a lot of fuel, 3.37233023856, 0.0, No
+cc-ball, gamepad, 5keys, 1, 3, reading week is just about here, 3.57151033678, 0.0, No
+cc-ball, gamepad, 5keys, 1, 4, just like it says on the can good, 3.5586376805, 0.0, No
+cc-ball, gamepad, 5keys, 1, 5, the fourth edition was better, 5.3267991264, 0.0, No
+cc-ball, gamepad, dynamic, 1, 1, just like it says on the can good, 3.44412677036, 0.0, No
+cc-ball, gamepad, dynamic, 1, 2, traveling requires a lot of fuel, 2.87361419069, 0.0, No
+cc-ball, gamepad, dynamic, 1, 3, reading week is just about here, 4.83278861197, 0.0, No
+cc-ball, gamepad, dynamic, 1, 4, the fourth edition was better, 5.26999964867, 0.0, No
+cc-ball, gamepad, dynamic, 1, 5, this equation is too complicated, 4.6154480144, 0.0, No
+cc-joy, gamepad, 5keys, 1, 1, traveling requires a lot of fuel, 3.51444284149, 0.0, No
+cc-joy, gamepad, 5keys, 1, 2, the fourth edition was better, 6.57462195924, 0.0, No
+cc-joy, gamepad, 5keys, 1, 3, reading week is just about here, 4.38800050631, 0.0, No
+cc-joy, gamepad, 5keys, 1, 4, just like it says on the can good, 3.86066943018, 0.0, No
+cc-joy, gamepad, 5keys, 1, 5, this equation is too complicated, 4.24810984398, 0.0, No
+cc-joy, gamepad, dynamic, 1, 1, the fourth edition was better, 6.99317000396, 0.0, No
+cc-joy, gamepad, dynamic, 1, 2, traveling requires a lot of fuel, 6.59555410797, 0.0, No
+cc-joy, gamepad, dynamic, 1, 3, just like it says on the can good, 6.21600621601, 0.0, No
+cc-joy, gamepad, dynamic, 1, 4, reading week is just about here, 7.43671640368, 0.0, No
+cc-joy, gamepad, dynamic, 1, 5, this equation is too complicated, 7.24840901737, 0.0, No
+gsh-ball, gamepad, 5keys, 1, 1, insurance is important for bad drivers, 3.18717403902, 0.0, No
+gsh-ball, gamepad, 5keys, 1, 2, a subject one can really enjoy, 2.91307387555, 0.0, No
+gsh-ball, gamepad, 5keys, 1, 3, every apple from every tree, 5.65110565111, 0.0, No
+gsh-ball, gamepad, 5keys, 1, 4, what to do when the oil run dry, 4.44499320904, 0.0322580645161, No
+gsh-ball, gamepad, 5keys, 1, 5, valid until the end of the year, 3.81092719859, 0.0, No
+gsh-ball, gamepad, dynamic, 1, 1, valid until the end of the year, 3.45717709966, 0.0, No
+gsh-ball, gamepad, dynamic, 1, 2, insurance is important for bad drivers, 5.61224489796, 0.0, No
+gsh-ball, gamepad, dynamic, 1, 3, every apple from every tree, 4.53947368421, 0.0, No
+gsh-ball, gamepad, dynamic, 1, 4, what to do when the oil runs dry, 4.27447851362, 0.0, No
+gsh-ball, gamepad, dynamic, 1, 5, a subject one can really enjoy, 5.44020310092, 0.0, No
+gyz-ball, gamepad, 5keys, 1, 1, tell a lie and your nose will grow, 4.02724605976, 0.0, No
+gyz-ball, gamepad, 5keys, 1, 2, teaching services will help, 5.72826540963, 0.0, No
+gyz-ball, gamepad, 5keys, 1, 3, interactions between men and women, 4.47660971424, 0.0, No
+gyz-ball, gamepad, 5keys, 1, 4, win first price in the contest, 4.16354400866, 0.0333333333333, No
+gyz-ball, gamepad, 5keys, 1, 5, this is a non profit organization, 4.12077804214, 0.0, No
+gyz-ball, gamepad, dynamic, 1, 1, teaching services will help, 6.77392040644, 0.0, No
+gyz-ball, gamepad, dynamic, 1, 2, interactions between men and women, 6.06591629036, 0.0, No
+gyz-ball, gamepad, dynamic, 1, 3, win first prize in the contest, 5.5908608062, 0.0, No
+gyz-ball, gamepad, dynamic, 1, 4, this is a non profit organization, 6.50582813771, 0.0, No
+gyz-ball, gamepad, dynamic, 1, 5, tell a lie and your nose will grow, 4.98614958449, 0.0, No
+gyz-joy, gamepad, 5keys, 1, 1, teaching services will help, 5.78731613214, 0.0, No
+gyz-joy, gamepad, 5keys, 1, 2, win first prize in the contest, 4.51711988436, 0.0, No
+gyz-joy, gamepad, 5keys, 1, 3, tell a lie and your nose will grow, 3.62590507739, 0.0, No
+gyz-joy, gamepad, 5keys, 1, 4, this is a non profit organization, 3.73018340068, 0.0, No
+gyz-joy, gamepad, 5keys, 1, 5, interactions between men and women, 4.44801383827, 0.0, No
+gyz-joy, gamepad, dynamic, 1, 1, win first prize in the contest, 10.2347161572, 0.0, No
+gyz-joy, gamepad, dynamic, 1, 2, this is a non profit organization, 11.4667940755, 0.0, No
+gyz-joy, gamepad, dynamic, 1, 3, tell a lie and your nose will grow, 8.07718196096, 0.0, No
+gyz-joy, gamepad, dynamic, 1, 4, teaching services will help, 10.7937935687, 0.0, No
+gyz-joy, gamepad, dynamic, 1, 5, interactions between men and women, 11.1620984745, 0.0, No
+hy-joy, gamepad, 5keys, 1, 1, soon we will return from the city, 3.30618992224, 0.0, No
+hy-joy, gamepad, 5keys, 1, 2, staying up all night is a bad idea, 2.67119560737, 0.0, No
+hy-joy, gamepad, 5keys, 1, 3, what a monkey sees a monkey will do, 3.11679637858, 0.0, No
+hy-joy, gamepad, 5keys, 1, 4, this camera take nice photographs, 3.08729595458, 0.030303030303, No
+hy-joy, gamepad, 5keys, 1, 5, experience is hard to come by, 3.16720186513, 0.0, No
+hy-joy, gamepad, dynamic, 1, 1, experience is hard to come by, 3.04523441961, 0.0, No
+hy-joy, gamepad, dynamic, 1, 2, what a monkey sees a monkey will do, 1.87744109249, 0.0, No
+hy-joy, gamepad, dynamic, 1, 3, staying up all night is a bad idea, 4.17757262401, 0.0, No
+hy-joy, gamepad, dynamic, 1, 4, this camera stake nice photographs, 4.6942234972, 0.0588235294118, No
+hy-joy, gamepad, dynamic, 1, 5, soon we will return from the city, 3.4406592473, 0.0, Yes
+lzf-ball, gamepad, 5keys, 1, 1, this library has many books, 3.69339471149, 0.0, No
+lzf-ball, gamepad, 5keys, 1, 2, this is a very good idea, 4.14598221592, 0.0, No
+lzf-ball, gamepad, 5keys, 1, 3, a picture is worth many words, 3.20934275335, 0.0, No
+lzf-ball, gamepad, 5keys, 1, 4, the fourth edition was better, 5.48225576551, 0.0, No
+lzf-ball, gamepad, 5keys, 1, 5, a subject one can really enjoy, 3.69790575271, 0.0, No
+lzf-ball, gamepad, dynamic, 1, 1, a subject one can really enjoy, 3.56366487296, 0.0, No
+lzf-ball, gamepad, dynamic, 1, 2, a picture is worth many words, 3.52668895338, 0.0, No
+lzf-ball, gamepad, dynamic, 1, 3, this library has many books, 4.34413070167, 0.0, No
+lzf-ball, gamepad, dynamic, 1, 4, this is a very good idea, 4.56072971675, 0.0, No
+lzf-ball, gamepad, dynamic, 1, 5, the fourth edition was better, 5.82931758122, 0.0, No
+lzf-joy, gamepad, 5keys, 1, 1, this equation is too complicated, 4.32009874511, 0.0, No
+lzf-joy, gamepad, 5keys, 1, 2, the fourth edition was better, 7.98190767593, 0.0, No
+lzf-joy, gamepad, 5keys, 1, 3, just like it says on the can good, 4.39059399671, 0.0, No
+lzf-joy, gamepad, 5keys, 1, 4, reading week is just about here, 4.91191611959, 0.0, No
+lzf-joy, gamepad, 5keys, 1, 5, traveling requires a lot of fuel, 3.56494471035, 0.0, No
+lzf-joy, gamepad, dynamic, 1, 1, this equation is too complicated, 7.21200283329, 0.0, Yes
+lzf-joy, gamepad, dynamic, 1, 2, traveling requires a lot of fuel, 8.49234640386, 0.0, No
+lzf-joy, gamepad, dynamic, 1, 3, reading week is just about here, 8.27717939195, 0.0, No
+lzf-joy, gamepad, dynamic, 1, 4, just like it says on the can good, 7.13469014407, 0.0, No
+lzf-joy, gamepad, dynamic, 1, 5, the fourth edition was better, 8.46859562456, 0.0, No
+wxy-joy, gamepad, 5keys, 1, 1, what to do when the oil runs dry, 3.78324526779, 0.0, No
+wxy-joy, gamepad, 5keys, 1, 2, every apple from every tree, 5.58433149887, 0.0, No
+wxy-joy, gamepad, 5keys, 1, 3, valid until the end of the year, 4.50504565113, 0.0, No
+wxy-joy, gamepad, 5keys, 1, 4, a subject one can really enjoy, 3.80088433909, 0.0, No
+wxy-joy, gamepad, 5keys, 1, 5, insurance is important for bad drivers, 3.84559359068, 0.0, No
+wxy-joy, gamepad, dynamic, 1, 1, insurance is important for bad drivers, 6.48818691221, 0.0, No
+wxy-joy, gamepad, dynamic, 1, 2, a subject one can really enjoy, 7.90139064475, 0.0, No
+wxy-joy, gamepad, dynamic, 1, 3, every apple from every tree, 6.82070925491, 0.0, No
+wxy-joy, gamepad, dynamic, 1, 4, what to do when the oil runs dry, 4.89939900706, 0.0, No
+wxy-joy, gamepad, dynamic, 1, 5, valid until the end of the year, 8.41561938959, 0.0, No
+yzc-ball, gamepad, 5keys, 1, 1, rain rain go away, 5.66381228508, 0.0, No
+yzc-ball, gamepad, 5keys, 1, 2, the music is better than it sounds, 6.24024960998, 0.0, No
+yzc-ball, gamepad, 5keys, 1, 3, interesting observation was made, 5.17895676762, 0.0, No
+yzc-ball, gamepad, 5keys, 1, 4, the library is closed today, 6.59608536673, 0.0, No
+yzc-ball, gamepad, 5keys, 1, 5, taking the train is usually faster, 7.52220997341, 0.0, No
+yzc-ball, gamepad, dynamic, 1, 1, rain rain go away, 4.6649820898, 0.0, No
+yzc-ball, gamepad, dynamic, 1, 2, the library is closed today, 6.78916685115, 0.0, No
+yzc-ball, gamepad, dynamic, 1, 3, taking the train is usually faster, 7.00004023012, 0.0, No
+yzc-ball, gamepad, dynamic, 1, 4, the music is better than it sounds, 5.73829285787, 0.0, No
+yzc-ball, gamepad, dynamic, 1, 5, interesting observation was made, 8.1761154054, 0.0, No
